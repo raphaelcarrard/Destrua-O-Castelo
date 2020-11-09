@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/inicial.unity
+    guid: 7e288f11cfb7b2845a9b485538747f84
+  - enabled: 1
+    path: Assets/Cenas/Level1_Mestra1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Cenas/Level2_Mestra1.unity
+    guid: 615c20aa081c7ec4cb9494b25311d087
+  - enabled: 1
+    path: Assets/Cenas/Level3_Mestra1.unity
+    guid: a225c17df3bfd85458c5bfd9503bb491
+  - enabled: 1
+    path: Assets/Cenas/Level4_Mestra1.unity
+    guid: 85b9a0d2103db274ab3d87272d3d559e
+  - enabled: 1
+    path: Assets/Cenas/Level5_Mestra1.unity
+    guid: 11635bfa07fa3a44d9ee3e0fbafe5f22
+  - enabled: 1
+    path: Assets/Cenas/Level6_Mestra1.unity
+    guid: 195c9ad317039494aa579b3983d95c4d
+  - enabled: 1
+    path: Assets/Cenas/Level7_Mestra1.unity
+    guid: 4f326772a2f79e348bb8baa3a9d3fc7a
+  - enabled: 1
+    path: Assets/Cenas/Level8_Mestra1.unity
+    guid: 0e70c2c2d36144d4a9d7db203d3af92e
+  - enabled: 1
+    path: Assets/Cenas/Level9_Mestra1.unity
+    guid: c49714050be4ece4eb2d1266d83fa58a
+  - enabled: 1
+    path: Assets/Cenas/Level10_Mestra1.unity
+    guid: 60214d562cc4f6a4c9b2bec22bf6610c
+  - enabled: 1
+    path: Assets/Cenas/Level11_Mestra1.unity
+    guid: 876b68638234ead4291309d515ee8682
+  - enabled: 1
+    path: Assets/Cenas/Level12_Mestra1.unity
+    guid: 2ff7cdebfe95e704e899a69ff30d779d
+  - enabled: 1
+    path: Assets/Cenas/Level13_Mestra2.unity
+    guid: 143be3ca1362ed442821660d9514dc5e
+  - enabled: 1
+    path: Assets/Cenas/Level14_Mestra2.unity
+    guid: c6eaeadbe9ffb604aa36ef06f1fe44f9
+  - enabled: 1
+    path: Assets/Cenas/Level15_Mestra2.unity
+    guid: cdc1fecff5f4e9d4b90bdf918352f4a7
+  - enabled: 1
+    path: Assets/Cenas/Level16_Mestra2.unity
+    guid: 264c485fa65574d4c8dc0bb9df708cc5
+  - enabled: 1
+    path: Assets/Cenas/Level17_Mestra2.unity
+    guid: 2b894f7f01dc21e41a9b021321875384
+  - enabled: 1
+    path: Assets/Cenas/Level18_Mestra2.unity
+    guid: aaf5dad714a0e664681e6b46d8877403
+  - enabled: 1
+    path: Assets/Cenas/Level19_Mestra2.unity
+    guid: 7b8d063f9234f714a894ed8b4e0cba2d
+  - enabled: 1
+    path: Assets/Cenas/Level20_Mestra2.unity
+    guid: 0df03d41b2a16864f9c8c34888d81689
+  - enabled: 1
+    path: Assets/Cenas/Level21_Mestra2.unity
+    guid: 96ba89b4b299f6e4c9284229eea43057
+  - enabled: 1
+    path: Assets/Cenas/Level22_Mestra2.unity
+    guid: 83e63c9eed2754e4481dedfe8fa28350
+  - enabled: 1
+    path: Assets/Cenas/Level23_Mestra2.unity
+    guid: d2370c0dcbf2f644a83364665f3389ca
+  - enabled: 1
+    path: Assets/Cenas/Level24_Mestra2.unity
+    guid: 6dfd34f98c459804e9c4d6e03ecdada7
+  - enabled: 1
+    path: Assets/Cenas/Menu1.unity
+    guid: b5fc817d006285c4eb65cfd4a417876d
+  - enabled: 1
+    path: Assets/Cenas/MenuFasesPai.unity
+    guid: 4045f3d81e055df4e94edbee7eccf1b8
+  - enabled: 1
+    path: Assets/Cenas/Mestra1.unity
+    guid: abb326243f7b0c241ba606deb55d2432
+  - enabled: 1
+    path: Assets/Cenas/Mestra2.unity
+    guid: 96bbc71acb9f56644b844b58adcf9c0a
+  m_configObjects: {}
