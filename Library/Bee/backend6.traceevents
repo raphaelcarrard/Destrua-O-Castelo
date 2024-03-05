@@ -1,0 +1,1029 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1709617027266577, "dur":38059, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709617027304647, "dur":377, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709617027305067, "dur":55, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1709617027305123, "dur":490, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709617027306518, "dur":130, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wkmi9452umks.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027307248, "dur":161, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cy5xjlb3qadp.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027307752, "dur":128, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yik9xckxb9pq.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027308582, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ommnnskq7ly5.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027308734, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8d0nvmewawgz.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027308863, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/749qgzk07f4g.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027309029, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/m95c59rsherq.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027309353, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zc2q202o1b48.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027309512, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/q9318t92pwyd.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027309576, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bp7po3n0skax.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027309637, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cxr68i4ywmrc.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027310338, "dur":147, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3b34lkacl4le.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027310772, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7pa3b42foa5z.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027311729, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/a6neuitdkiuf.o" }}
+,{ "pid":12345, "tid":0, "ts":1709617027312365, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/My Games/Destrua o Castelo/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Resources/mscorlib.dll-resources.dat" }}
+,{ "pid":12345, "tid":0, "ts":1709617027312643, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/Build/index.wasm" }}
+,{ "pid":12345, "tid":0, "ts":1709617027312996, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/MemoryProfiler.png" }}
+,{ "pid":12345, "tid":0, "ts":1709617027305639, "dur":7713, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709617027313355, "dur":1745790, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709617029059148, "dur":347, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709617029059732, "dur":4534, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1709617027306474, "dur":6978, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027313456, "dur":574, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027314030, "dur":474, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027314504, "dur":652, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027315156, "dur":4673, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027319907, "dur":2689, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027322597, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ClassRegistrationGenerator E:/My Games/Destrua o Castelo/Library/Bee/artifacts/WebGL/il2cppOutput/UnityClassRegistration.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027322757, "dur":3902, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027326701, "dur":259, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityWebRequestModule_CodeGen.c" }}
+,{ "pid":12345, "tid":1, "ts":1709617027326660, "dur":339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2vx0wi06t7dl.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027327121, "dur":900, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__10.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027328030, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027327084, "dur":1029, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3q3m5y95rkxm.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027328155, "dur":486, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__15.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027328651, "dur":170, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027328142, "dur":679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/656n3f3vmmph.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027328822, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027328963, "dur":1207, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics__11.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027330180, "dur":114, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027328943, "dur":1352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mcee76826ath.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027330416, "dur":1036, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__11.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027331461, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027330396, "dur":1151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3b34lkacl4le.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027331548, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027331619, "dur":754, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__12.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027332382, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027331606, "dur":869, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/z2fvnhu2c8kz.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027332517, "dur":658, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__47.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027333183, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027332506, "dur":758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cy5xjlb3qadp.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027333338, "dur":200, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine_CodeGen.c" }}
+,{ "pid":12345, "tid":1, "ts":1709617027333318, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8a29a7madzto.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027333625, "dur":927, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityAnalyticsCommonModule.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027334563, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027333606, "dur":1054, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cukhwyayz62x.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027334693, "dur":845, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.HierarchyCoreModule.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027335548, "dur":113, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027334684, "dur":977, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ehk6tdjpd8ia.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027335762, "dur":887, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppUnresolvedIndirectCallStubs.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027336659, "dur":119, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027335739, "dur":1039, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tscw0d6kv5d9.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027336823, "dur":566, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027337399, "dur":113, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027336810, "dur":702, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/46n14taszqg1.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027337513, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027337806, "dur":1593, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__22.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027339408, "dur":88, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027337784, "dur":1713, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/paa6hhqf4hcm.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027339625, "dur":1043, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__16.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027340677, "dur":121, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027339604, "dur":1194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/rlacjphtpa10.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027340848, "dur":884, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__56.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027341743, "dur":107, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027340832, "dur":1019, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yk2sczmmqr00.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027341938, "dur":430, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System__1.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027342381, "dur":136, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027341918, "dur":600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jadbjlh96jst.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027342519, "dur":222, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027342893, "dur":681, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__63.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027343582, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027342872, "dur":792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yjbj5n39iivd.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027343748, "dur":702, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__19.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027344461, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027343725, "dur":836, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o0c1gu0llra5.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027344561, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027344664, "dur":369, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Burst.Unsafe_CodeGen.c" }}
+,{ "pid":12345, "tid":1, "ts":1709617027344639, "dur":423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i9t8jppvjhxa.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027345143, "dur":839, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCTypeValuesTable.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027345990, "dur":74, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027345114, "dur":951, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3434whk799de.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027346134, "dur":310, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericAdjustorThunkTable.c" }}
+,{ "pid":12345, "tid":1, "ts":1709617027346112, "dur":365, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6963szpgnz3n.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027346563, "dur":895, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__38.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027347468, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027346546, "dur":1007, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qb92q7zjrtpd.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027347591, "dur":689, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__49.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1709617027348290, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027347580, "dur":804, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ylt2ja6yx05n.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027348385, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027348558, "dur":265, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.InternalAPIEngineBridge.001_CodeGen.c" }}
+,{ "pid":12345, "tid":1, "ts":1709617027348536, "dur":315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bde61p62yukx.o" }}
+,{ "pid":12345, "tid":1, "ts":1709617027348967, "dur":29624, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709617027378597, "dur":60, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"PreprocessJS C:/Users/rapha/OneDrive/rea de Trabalho/index/index.html" }}
+,{ "pid":12345, "tid":1, "ts":1709617027378933, "dur":275310, "ph":"X", "name": "PreprocessJS",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/index.html" }}
+,{ "pid":12345, "tid":1, "ts":1709617027654267, "dur":1404887, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027306137, "dur":7230, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027313373, "dur":6447, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027319839, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/8870518961386501228.rsp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027319946, "dur":1084, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker E:/My Games/Destrua o Castelo/Library/Bee/artifacts/unitylinker_ber2.traceevents" }}
+,{ "pid":12345, "tid":2, "ts":1709617027321031, "dur":639, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027322597, "dur":504, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"IL2CPP_CodeGen E:/My Games/Destrua o Castelo/Library/Bee/artifacts/il2cpp_conv_j0c0.traceevents" }}
+,{ "pid":12345, "tid":2, "ts":1709617027323102, "dur":1744, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027326645, "dur":228, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__52.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027326892, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027326632, "dur":366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/q9qjclxucbf3.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027327118, "dur":1074, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__70.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027328202, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027327082, "dur":1210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yik9xckxb9pq.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027328355, "dur":117, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1709617027328336, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yz88zil7as2w.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027328540, "dur":616, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__22.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027329164, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027328527, "dur":723, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wgraebui1fpg.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027329286, "dur":622, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.DirectorModule.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027329916, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027329274, "dur":740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/04gm2ogjohpg.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027330049, "dur":431, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__17.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027330489, "dur":95, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027330035, "dur":549, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/stus34xrtcig.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027330651, "dur":889, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__28.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027331555, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027330634, "dur":1006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/j98jika3ooqi.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027331729, "dur":731, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__12.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027332468, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027331704, "dur":844, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i89m9t0y1cdr.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027332599, "dur":57, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.ParticleSystemModule_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1709617027332576, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dhcdiab3enrf.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027332747, "dur":511, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SpriteShapeModule.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027333266, "dur":76, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027332728, "dur":615, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ya75m322gv23.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027333404, "dur":565, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__23.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027333979, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027333386, "dur":698, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qium2w6d8jt1.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027334164, "dur":1232, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.Physics2DModule.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027335404, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027334146, "dur":1333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3009xxaszdnw.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027335613, "dur":533, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__6.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027336154, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027335594, "dur":640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dlhf7mvaums2.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027336280, "dur":980, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__2.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027337270, "dur":139, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027336262, "dur":1147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5t0dtkv5m8mu.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027337452, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o197is300oy2.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027337644, "dur":50, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1709617027337629, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sa4r9v37ip4s.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027337776, "dur":1121, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Core.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027338910, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027337758, "dur":1251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vaozfaxa6mth.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027339135, "dur":468, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__6.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027339613, "dur":100, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027339117, "dur":597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nbkfv5of9ri9.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027339755, "dur":804, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__10.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027340568, "dur":107, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027339742, "dur":933, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wkmi9452umks.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027340676, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027340982, "dur":520, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__15.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027341511, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027340879, "dur":714, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/whiklmdv8ou3.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027341646, "dur":612, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.VideoModule.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027342270, "dur":114, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027341631, "dur":754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pokf4d9q636h.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027342646, "dur":634, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__7.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027343289, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027342625, "dur":762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/isyi41wt2yef.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027343439, "dur":346, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SpriteShapeModule_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1709617027343426, "dur":396, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/u83y30e4zufc.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027343861, "dur":489, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__24.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027344360, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027343849, "dur":603, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2bym9tmd7rcj.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027344521, "dur":599, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__39.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027345131, "dur":106, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027344498, "dur":740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/brcr6gehuh1w.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027345288, "dur":245, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericInstDefinitions.c" }}
+,{ "pid":12345, "tid":2, "ts":1709617027345267, "dur":302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/c8yx0jquhyh4.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027345838, "dur":1351, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__3.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027347198, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027345819, "dur":1476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jt1mbf5c345q.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027347331, "dur":783, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule__3.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027348121, "dur":69, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027347317, "dur":873, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yuhkwrxm9rib.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027348234, "dur":820, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics__9.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1709617027349062, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027348219, "dur":938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/lvrmggoc4uba.o" }}
+,{ "pid":12345, "tid":2, "ts":1709617027349178, "dur":29361, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709617027378548, "dur":170, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/MemoryProfiler.png" }}
+,{ "pid":12345, "tid":2, "ts":1709617027379633, "dur":26659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/MemoryProfiler.png" }}
+,{ "pid":12345, "tid":2, "ts":1709617027406325, "dur":67, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-dark.png" }}
+,{ "pid":12345, "tid":2, "ts":1709617027406991, "dur":41257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-dark.png" }}
+,{ "pid":12345, "tid":2, "ts":1709617027448275, "dur":1610874, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027306400, "dur":7039, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027313442, "dur":267, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027313709, "dur":593, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027314302, "dur":254, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027314556, "dur":463, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027315019, "dur":4845, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027319925, "dur":2673, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027322604, "dur":374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ICallRegistrationGenerator E:/My Games/Destrua o Castelo/Library/Bee/artifacts/WebGL/il2cppOutput/UnityICallRegistration.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027323026, "dur":3621, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027326689, "dur":476, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__64.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027327174, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027326649, "dur":610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jze7kxh7l66w.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027327307, "dur":470, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__37.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027327786, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027327290, "dur":579, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5v5ebylmo5du.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027327903, "dur":592, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__8.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027328503, "dur":103, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027327893, "dur":713, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ckgkr281j927.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027328680, "dur":680, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__11.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027329370, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027328662, "dur":801, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yuve31d4853j.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027329508, "dur":866, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__18.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027330382, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027329490, "dur":986, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2xoexq6v7k6x.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027330578, "dur":1063, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__3.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027331648, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027330505, "dur":1240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/q9318t92pwyd.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027331878, "dur":804, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__55.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027332692, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027331860, "dur":938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xcicsj6nmpjl.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027332885, "dur":1041, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027333935, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027332867, "dur":1168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ui4to4nnb4ow.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027334074, "dur":61, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Mono.Security_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1709617027334061, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cjt2q3960foz.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027334167, "dur":146, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027334384, "dur":225, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.VRModule_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1709617027334364, "dur":278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/01o95qatwvn3.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027334689, "dur":1297, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__46.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027335995, "dur":88, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027334678, "dur":1406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ri293bx5nm15.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027336257, "dur":449, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__68.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027336717, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027336237, "dur":574, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/raqglb7yzmsu.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027336855, "dur":1555, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Collections__1.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027338419, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027336839, "dur":1658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2thpiy5ue8ea.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027338571, "dur":185, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TerrainModule_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1709617027338549, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7buqey8m9hdk.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027338933, "dur":701, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__14.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027339645, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027338909, "dur":834, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v9x306ww4mdo.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027339802, "dur":656, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__41.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027340473, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027339776, "dur":787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yrncootg7h4o.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027340609, "dur":76, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.VideoModule_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1709617027340589, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p5o2tmiseo1y.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027340728, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027340831, "dur":730, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__7.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027341569, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027340808, "dur":860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/et1vr2b9xo9h.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027341738, "dur":589, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__2.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027342336, "dur":145, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027341720, "dur":762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ydyyv5qf0gu7.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027342527, "dur":1078, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__9.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027343614, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027342513, "dur":1192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xzj86bnzmxer.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027343794, "dur":260, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericMethodPointerTable.c" }}
+,{ "pid":12345, "tid":3, "ts":1709617027343762, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qhfapaszfnda.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027344159, "dur":908, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__14.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027345075, "dur":120, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027344141, "dur":1054, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/lq3zn6oyjydy.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027345279, "dur":560, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__66.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027345848, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027345260, "dur":684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5m2blmc3swzv.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027346091, "dur":884, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__1.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027346984, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027346073, "dur":996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/x5dibqahweds.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027347150, "dur":562, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AndroidJNIModule.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027347722, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027347132, "dur":668, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mav59c592a2d.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027347861, "dur":502, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateTypeValues.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027348373, "dur":101, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027347842, "dur":632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/og4hjktve1b0.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027348510, "dur":377, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__2.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1709617027348894, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027348497, "dur":470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/f085urznvbxb.o" }}
+,{ "pid":12345, "tid":3, "ts":1709617027348994, "dur":29538, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709617027378537, "dur":61, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"PreprocessJS C:/Users/rapha/OneDrive/rea de Trabalho/index/Build/index.loader.js" }}
+,{ "pid":12345, "tid":3, "ts":1709617027378660, "dur":1680409, "ph":"X", "name": "PreprocessJS",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/Build/index.loader.js" }}
+,{ "pid":12345, "tid":4, "ts":1709617027306270, "dur":7141, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027313417, "dur":503, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027313920, "dur":359, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027314280, "dur":293, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027314573, "dur":407, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027314981, "dur":4860, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027319898, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027319982, "dur":2632, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027322615, "dur":4041, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027326812, "dur":1029, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics__8.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027327850, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027326658, "dur":1268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0foy069e16zq.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027327970, "dur":690, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__4.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027328669, "dur":159, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027327954, "dur":875, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/484aroja6sha.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027328829, "dur":195, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027329057, "dur":706, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Assembly-CSharp__2.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027329771, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027329038, "dur":805, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/llk938syanc1.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027329982, "dur":153, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputForUIModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1709617027329961, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3mksqkxswp7c.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027330212, "dur":768, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027330989, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027330198, "dur":876, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4menpxqwepc7.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027331165, "dur":256, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__9.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027331429, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027331145, "dur":364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/z1vg8x9cme1z.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027331510, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027331691, "dur":880, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__5.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027332581, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027331653, "dur":1013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/m3zyaq8g5p1t.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027332704, "dur":740, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__18.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027333454, "dur":76, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027332685, "dur":846, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wes84qill5lr.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027333587, "dur":279, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityAnalyticsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1709617027333568, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/59bzyexdl8dx.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027333971, "dur":487, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__72.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027334466, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027333955, "dur":588, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/k67dy1etizip.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027334596, "dur":531, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__21.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027335135, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027334579, "dur":638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4u6h27bi1t02.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027335284, "dur":166, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1709617027335267, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8cyyqp3hp3l3.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027335524, "dur":1092, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__16.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027336625, "dur":100, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027335509, "dur":1216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hxl80vrsbd6m.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027336840, "dur":470, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__26.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027337330, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027336824, "dur":604, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xllfivf7hyxj.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027337465, "dur":226, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.VFXModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1709617027337452, "dur":274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/e7fidd1swqnw.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027337769, "dur":751, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppInteropDataTable.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027338530, "dur":120, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027337756, "dur":898, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/kzyxni8s6fk0.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027338704, "dur":1112, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics__10.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027339824, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027338687, "dur":1216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1waqrxu53mhy.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027340044, "dur":781, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__23.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027340835, "dur":136, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027340022, "dur":950, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hwuytk8f430z.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027341015, "dur":549, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__43.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027341573, "dur":115, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027341000, "dur":689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4muoj7lbdurr.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027341748, "dur":698, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__20.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027342459, "dur":116, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027341723, "dur":853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/at35dmzmupwh.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027342620, "dur":1036, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__35.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027343666, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027342603, "dur":1146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/j8hab9qqhflv.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027343926, "dur":1093, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__13.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027345029, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027343900, "dur":1216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/kijj3q8zfwwi.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027345155, "dur":68, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1709617027345141, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/rkuut3zsutz2.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027345295, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/b8dvyfpepvnr.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027345412, "dur":883, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppReversePInvokeWrapperTable.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027346303, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027345401, "dur":996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/q4a3zqoou7rf.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027346442, "dur":319, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__9.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027346770, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027346425, "dur":423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ueb8a4x8i6mr.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027346908, "dur":139, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.DirectorModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1709617027346889, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gm2h239btpey.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027347158, "dur":1053, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Xml.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027348222, "dur":100, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027347140, "dur":1183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1updw18tlnqd.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027348374, "dur":691, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1709617027349074, "dur":104, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027348353, "dur":826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7e0rh9x7g8fd.o" }}
+,{ "pid":12345, "tid":4, "ts":1709617027349203, "dur":29344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709617027378554, "dur":142, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"PreprocessJS C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/style.css" }}
+,{ "pid":12345, "tid":4, "ts":1709617027379718, "dur":226630, "ph":"X", "name": "PreprocessJS",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/style.css" }}
+,{ "pid":12345, "tid":4, "ts":1709617027606364, "dur":1452787, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709617027306180, "dur":7199, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709617027313382, "dur":506, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709617027313889, "dur":255, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709617027314144, "dur":347, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709617027314491, "dur":579, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709617027315071, "dur":4767, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709617027319874, "dur":55259, "ph":"X", "name": "ComputeLeafInputSignature",  "args": { "detail":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/il2cpp.a" }}
+,{ "pid":12345, "tid":5, "ts":1709617027375150, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a" }}
+,{ "pid":12345, "tid":5, "ts":1709617027375407, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Link_WebGL_wasm Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js (+wasm)" }}
+,{ "pid":12345, "tid":5, "ts":1709617027375993, "dur":2500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/Build/index.framework.js" }}
+,{ "pid":12345, "tid":5, "ts":1709617027379563, "dur":27944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-full-light.png" }}
+,{ "pid":12345, "tid":5, "ts":1709617027407522, "dur":1651624, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027306241, "dur":7145, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027313389, "dur":595, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027313985, "dur":444, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027314429, "dur":601, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027315030, "dur":4842, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027319873, "dur":2729, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027322603, "dur":4041, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027326715, "dur":339, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.HierarchyCoreModule_CodeGen.c" }}
+,{ "pid":12345, "tid":6, "ts":1709617027326647, "dur":453, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/eacfmzr68n7d.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027327234, "dur":259, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PropertiesModule_CodeGen.c" }}
+,{ "pid":12345, "tid":6, "ts":1709617027327209, "dur":309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fgb806d1o722.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027327564, "dur":1073, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__15.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027328648, "dur":139, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027327548, "dur":1239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vuxlhsx2x61f.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027328845, "dur":51, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Collections.LowLevel.ILSupport_CodeGen.c" }}
+,{ "pid":12345, "tid":6, "ts":1709617027328822, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/havw4ad95h3k.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027328970, "dur":585, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__16.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027329568, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027328958, "dur":697, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qjlw97pqftyo.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027329742, "dur":513, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Collections.LowLevel.ILSupport.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027330265, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027329722, "dur":648, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1gqmrcx9yirp.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027330443, "dur":570, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__6.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027331022, "dur":95, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027330423, "dur":694, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xcvuosiwza3v.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027331158, "dur":630, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__6.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027331797, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027331145, "dur":748, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qwsfrde6cja9.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027332019, "dur":609, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__45.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027332644, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027332000, "dur":743, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qaitjwg7jkkq.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027332875, "dur":1037, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__15.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027333921, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027332856, "dur":1148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pb1fps9rbrh9.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027334044, "dur":694, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__5.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027334748, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027334030, "dur":805, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cxr68i4ywmrc.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027334976, "dur":483, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__61.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027335467, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027334955, "dur":594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cwne5y8dcs2e.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027335644, "dur":769, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__36.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027336420, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027335615, "dur":885, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4nlyqi5nk3we.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027336580, "dur":600, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AudioModule.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027337189, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027336526, "dur":741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sqd16oem05wx.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027337374, "dur":513, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__5.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027337896, "dur":116, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027337295, "dur":717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5gprb4z89uyp.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027338045, "dur":585, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityWebRequestModule.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027338639, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027338031, "dur":692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/irfijwn33vm6.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027338780, "dur":332, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateTypeValues1.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027339121, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027338767, "dur":434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7jazhel06s2v.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027339254, "dur":220, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.XRModule_CodeGen.c" }}
+,{ "pid":12345, "tid":6, "ts":1709617027339237, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mg6bm1kenbxr.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027339592, "dur":458, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__51.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027340061, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027339571, "dur":583, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5tnvwbjx9m3j.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027340198, "dur":654, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__8.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027340864, "dur":111, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027340187, "dur":788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/t6qrqohaf45b.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027341027, "dur":939, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__71.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027341974, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027341003, "dur":1044, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zq4pis0vfb75.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027342083, "dur":162, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericMethodDefinitions.c" }}
+,{ "pid":12345, "tid":6, "ts":1709617027342070, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dh04kxv85juj.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027342315, "dur":685, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__42.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027343008, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027342303, "dur":787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/j7q03x7da6f8.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027343145, "dur":140, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SharedInternalsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":6, "ts":1709617027343123, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/r680k1be3g1f.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027343351, "dur":1046, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.GridModule.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027344406, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027343338, "dur":1151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/izy2mpcm7m06.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027344529, "dur":797, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__31.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027345336, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027344514, "dur":898, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bx60av1y3yzx.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027345488, "dur":773, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__73.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027346267, "dur":93, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027345440, "dur":921, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5lb2dbtqlnu8.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027346413, "dur":728, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__58.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027347148, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027346396, "dur":850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/k8pxcohixhtz.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027347308, "dur":1053, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics__1.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1709617027348374, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027347288, "dur":1182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/l1lwkubudcab.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027348512, "dur":481, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Xml_CodeGen.c" }}
+,{ "pid":12345, "tid":6, "ts":1709617027348499, "dur":531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dpk52thmj4kl.o" }}
+,{ "pid":12345, "tid":6, "ts":1709617027349051, "dur":29476, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709617027378533, "dur":115, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-full-dark.png" }}
+,{ "pid":12345, "tid":6, "ts":1709617027379571, "dur":28103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-full-dark.png" }}
+,{ "pid":12345, "tid":6, "ts":1709617027407694, "dur":1651467, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027306311, "dur":7110, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027313426, "dur":511, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027313938, "dur":276, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027314214, "dur":330, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027314544, "dur":545, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027315090, "dur":4778, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027319869, "dur":2741, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027322611, "dur":4022, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027326683, "dur":256, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Burst__1.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027326952, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027326634, "dur":413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nywzfd0y774f.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027327095, "dur":138, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.MarshallingModule_CodeGen.c" }}
+,{ "pid":12345, "tid":7, "ts":1709617027327084, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qv9t6gwir3jc.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027327631, "dur":874, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__2.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027328513, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027327594, "dur":1018, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0fa7wrdtzxgg.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027328660, "dur":1383, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__50.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027330052, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027328640, "dur":1492, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/kek7g24z6yr0.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027330169, "dur":938, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__44.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027331116, "dur":127, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027330156, "dur":1087, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5ue53m29gw86.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027331322, "dur":756, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PropertiesModule.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027332086, "dur":70, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027331306, "dur":850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/frspbmxyogzp.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027332230, "dur":554, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__4.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027332791, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027332212, "dur":670, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bp7po3n0skax.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027332955, "dur":542, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Collections.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027333505, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027332937, "dur":665, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9ynz6newiimz.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027333653, "dur":263, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputLegacyModule_CodeGen.c" }}
+,{ "pid":12345, "tid":7, "ts":1709617027333638, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tiioukyky5sy.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027334050, "dur":280, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Burst_CodeGen.c" }}
+,{ "pid":12345, "tid":7, "ts":1709617027334029, "dur":326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0gmjrzfmqlms.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027334406, "dur":436, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppInvokerTable.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027334850, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027334386, "dur":547, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xv2uqdqbtxr0.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027334972, "dur":979, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__3.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027335960, "dur":89, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027334959, "dur":1090, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6hqmromhk8nk.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027336126, "dur":533, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__4.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027336668, "dur":110, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027336095, "dur":683, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6ahjsa6n593i.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027336830, "dur":782, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__48.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027337622, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027336813, "dur":892, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xd9lzup0tyo8.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027337746, "dur":582, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__29.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027338335, "dur":64, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027337732, "dur":668, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4oc8xto0rc21.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027338477, "dur":391, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027338877, "dur":104, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027338457, "dur":525, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/kgo65odfgivz.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027339041, "dur":793, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Assembly-CSharp__1.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027339844, "dur":156, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027339015, "dur":986, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/kd0sjtc06kvl.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027340055, "dur":675, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__60.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027340739, "dur":101, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027340040, "dur":801, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/rgkqppug93qv.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027340936, "dur":468, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Collections_CodeGen.c" }}
+,{ "pid":12345, "tid":7, "ts":1709617027340884, "dur":556, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ldexzum0yslh.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027341493, "dur":277, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIModule_CodeGen.c" }}
+,{ "pid":12345, "tid":7, "ts":1709617027341474, "dur":337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0f2oifty85hx.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027341903, "dur":490, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule__2.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027342405, "dur":124, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027341882, "dur":647, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dfewgijp636r.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027342565, "dur":750, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.IMGUIModule__1.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027343324, "dur":93, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027342554, "dur":863, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ya7forhc94ne.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027343763, "dur":482, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SharedInternalsModule.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027344254, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027343750, "dur":588, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v0r5e28ekgax.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027344375, "dur":588, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__57.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027344972, "dur":88, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027344361, "dur":699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/j05gs80jtfck.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027345146, "dur":426, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__2.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027345580, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027345124, "dur":539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/l2mybf8jhkc1.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027345710, "dur":720, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__9.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027346439, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027345693, "dur":842, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ko87ml4330wk.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027346584, "dur":786, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027347379, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027346572, "dur":893, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/omgo5xljq5ub.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027347525, "dur":654, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__54.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1709617027348189, "dur":101, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027347504, "dur":787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cxeocasqj171.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027348292, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027348503, "dur":510, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AndroidJNIModule_CodeGen.c" }}
+,{ "pid":12345, "tid":7, "ts":1709617027348488, "dur":552, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/u5t93y4oatfb.o" }}
+,{ "pid":12345, "tid":7, "ts":1709617027349071, "dur":29498, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709617027378574, "dur":156, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/webmemd-icon.png" }}
+,{ "pid":12345, "tid":7, "ts":1709617027379676, "dur":62825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/webmemd-icon.png" }}
+,{ "pid":12345, "tid":7, "ts":1709617027442529, "dur":1616641, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027306386, "dur":7044, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027313434, "dur":592, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027314027, "dur":495, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027314523, "dur":535, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027315059, "dur":4786, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027319919, "dur":2689, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027322608, "dur":4033, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027326790, "dur":1741, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__1.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027328540, "dur":111, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027326643, "dur":2008, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uk5hfilqsnls.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027328686, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5jq3eqg59k3t.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027328923, "dur":490, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__33.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027329422, "dur":67, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027328880, "dur":609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xku5akwuapsw.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027329526, "dur":843, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027330377, "dur":114, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027329515, "dur":977, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yuzio99m2lx4.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027330531, "dur":841, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__4.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027331381, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027330516, "dur":948, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1nwavguj21pa.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027331515, "dur":262, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityAnalyticsModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027331784, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027331498, "dur":366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/t7m4mqo8dig0.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027331906, "dur":663, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Collections__2.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027332578, "dur":107, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027331891, "dur":795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/n9kdy7jshwqt.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027332712, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/42whrccd2m4c.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027332842, "dur":172, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericMethodTable.c" }}
+,{ "pid":12345, "tid":8, "ts":1709617027332830, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nqb9ltfkpo82.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027333164, "dur":267, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppMetadataUsage.c" }}
+,{ "pid":12345, "tid":8, "ts":1709617027333143, "dur":318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vi281qs6wdyr.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027333516, "dur":491, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__6.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027334016, "dur":107, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027333503, "dur":621, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sy4nsz0jc0wh.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027334177, "dur":324, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__5.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027334509, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027334162, "dur":441, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7i1zcqmm9bly.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027334655, "dur":789, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__26.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027335455, "dur":107, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027334638, "dur":924, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ozlr9ih9di5h.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027335599, "dur":859, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SubsystemsModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027336467, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027335585, "dur":967, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/kue80ud3jl4a.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027336857, "dur":638, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__18.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027337527, "dur":103, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027336822, "dur":808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3k9c1kmoi3yl.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027337701, "dur":166, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AssetBundleModule_CodeGen.c" }}
+,{ "pid":12345, "tid":8, "ts":1709617027337689, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/82nyxykw22fg.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027337936, "dur":683, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__3.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027338628, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027337917, "dur":804, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pqm81zhebyhy.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027338773, "dur":250, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.MarshallingModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027339033, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027338758, "dur":360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mvpj1hgepd8d.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027339258, "dur":690, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.ParticleSystemModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027339958, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027339234, "dur":809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h3kbccaar94i.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027340087, "dur":749, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Burst.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027340844, "dur":123, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027340071, "dur":896, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gssnab7amae8.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027341064, "dur":1094, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.VFXModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027342167, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027341043, "dur":1212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/q33x88jblzzq.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027342390, "dur":688, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__7.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027343088, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027342359, "dur":821, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8qn3af3ccgus.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027343214, "dur":586, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__5.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027343811, "dur":106, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027343201, "dur":717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/s5drrdhdrygj.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027343954, "dur":937, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__1.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027344899, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027343942, "dur":1044, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/z7pqccxuvvz0.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027345029, "dur":180, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericClassTable.c" }}
+,{ "pid":12345, "tid":8, "ts":1709617027345015, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/m3ch3jdi074v.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027345304, "dur":1003, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__13.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027346317, "dur":102, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027345286, "dur":1133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/auuflxiz1y14.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027346451, "dur":469, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Mono.Security.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027346928, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027346440, "dur":561, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/w95mg2aqwfgl.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027347166, "dur":678, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__19.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027347851, "dur":70, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027347133, "dur":788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xmcpp6yjp726.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027348174, "dur":406, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule_CodeGen.c" }}
+,{ "pid":12345, "tid":8, "ts":1709617027348151, "dur":465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v2bii5774o3i.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027348657, "dur":413, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AIModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1709617027349079, "dur":101, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027348642, "dur":538, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/g0hp7hpwwokb.o" }}
+,{ "pid":12345, "tid":8, "ts":1709617027349200, "dur":29344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709617027378553, "dur":191, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/favicon.ico" }}
+,{ "pid":12345, "tid":8, "ts":1709617027379712, "dur":72484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/favicon.ico" }}
+,{ "pid":12345, "tid":8, "ts":1709617027452211, "dur":1606945, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027306456, "dur":6988, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027313447, "dur":481, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027313928, "dur":299, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027314227, "dur":249, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027314476, "dur":525, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027315001, "dur":4848, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027319852, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_7kyv.info" }}
+,{ "pid":12345, "tid":9, "ts":1709617027319977, "dur":1056, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WebGL/boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1709617027321073, "dur":1527, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027322662, "dur":3976, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027326687, "dur":1359, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__62.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027328055, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027326640, "dur":1494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/d47upepcguju.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027328189, "dur":247, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AudioModule_CodeGen.c" }}
+,{ "pid":12345, "tid":9, "ts":1709617027328168, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8j8j2qjfb5de.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027328655, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/a6neuitdkiuf.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027328829, "dur":1143, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__69.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027329981, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027328819, "dur":1249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cqt40klw2a4d.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027330122, "dur":508, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__14.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027330639, "dur":74, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027330106, "dur":607, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4vxr9ivu825p.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027330814, "dur":392, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027331215, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027330797, "dur":514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nwlv2b16hqxp.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027331346, "dur":222, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SubsystemsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":9, "ts":1709617027331332, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sd8cbtz5j08i.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027331636, "dur":1407, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics__7.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027333052, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027331623, "dur":1508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/z73hgrtgx4ib.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027333196, "dur":1176, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AccessibilityModule.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027334379, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027333170, "dur":1290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cwrcugoh6ubh.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027334580, "dur":801, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__17.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027335392, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027334561, "dur":915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2cpwg55pe1h6.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027335549, "dur":481, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__13.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027336039, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027335529, "dur":595, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/969gh326qg9g.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027336155, "dur":668, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputForUIModule.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027336865, "dur":106, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027336145, "dur":826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/n1pafabcy5o2.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027337014, "dur":504, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.2D.Animation.Runtime.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027337528, "dur":112, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027336999, "dur":642, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ommnnskq7ly5.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027337721, "dur":841, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.InternalAPIEngineBridge.001.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027338575, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027337706, "dur":955, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/749qgzk07f4g.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027338748, "dur":805, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AssetBundleModule.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027339561, "dur":89, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027338727, "dur":924, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gkxqdz84fo6p.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027339710, "dur":902, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__20.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027340623, "dur":103, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027339693, "dur":1033, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jf3tmyxky5oj.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027340808, "dur":542, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__1.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027341359, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027340788, "dur":654, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4lgx84e7i65e.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027341483, "dur":275, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__30.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027341768, "dur":89, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027341472, "dur":385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qh3cvln10aoe.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027341963, "dur":203, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Core_CodeGen.c" }}
+,{ "pid":12345, "tid":9, "ts":1709617027341941, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fj7g10i1xdqa.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027342291, "dur":2071, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__7.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027344371, "dur":186, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027342275, "dur":2283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/r4cwbtu4glro.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027344647, "dur":668, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Burst__2.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027345326, "dur":104, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027344628, "dur":803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8d0nvmewawgz.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027345468, "dur":681, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__40.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027346157, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027345456, "dur":780, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xj3v38ci3fn9.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027346351, "dur":134, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.Physics2DModule_CodeGen.c" }}
+,{ "pid":12345, "tid":9, "ts":1709617027346329, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/702vlsje0j2j.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027346568, "dur":767, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__1.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027347344, "dur":131, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027346548, "dur":928, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8k9r2a0o3bma.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027347521, "dur":567, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__21.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027348097, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027347505, "dur":690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v86ttvdkxd80.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027348247, "dur":325, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__8.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1709617027348581, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027348233, "dur":436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/emsssovfjqpg.o" }}
+,{ "pid":12345, "tid":9, "ts":1709617027348784, "dur":26771, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027375563, "dur":125, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/Build/index.wasm" }}
+,{ "pid":12345, "tid":9, "ts":1709617027375700, "dur":2834, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709617027378543, "dur":63, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-empty-dark.png" }}
+,{ "pid":12345, "tid":9, "ts":1709617027379545, "dur":27812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-empty-dark.png" }}
+,{ "pid":12345, "tid":9, "ts":1709617027407386, "dur":131, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-empty-light.png" }}
+,{ "pid":12345, "tid":9, "ts":1709617027407536, "dur":1417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-empty-light.png" }}
+,{ "pid":12345, "tid":9, "ts":1709617027408974, "dur":1650165, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027306536, "dur":6926, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027313466, "dur":635, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027314102, "dur":287, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027314389, "dur":594, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027314984, "dur":4850, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027319841, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/6070537824006410562.rsp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027319970, "dur":2642, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027322613, "dur":4022, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027326806, "dur":1407, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__27.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027328223, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027326640, "dur":1666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i1o3x4t4km92.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027328650, "dur":849, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics__4.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027329509, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027328592, "dur":1003, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/s4cp0sknnqet.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027329686, "dur":562, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__11.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027330257, "dur":109, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027329668, "dur":699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xs6ytkm1yo17.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027330506, "dur":579, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__53.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027331093, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027330484, "dur":706, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/rhb0w0dtgdwi.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027331231, "dur":988, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__74.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027332228, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027331219, "dur":1082, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6tviyq9oppbo.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027332356, "dur":742, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__67.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027333106, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027332341, "dur":840, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/q25z0vq0vkbf.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027333301, "dur":605, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCFieldValuesTable.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027333913, "dur":102, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027333282, "dur":733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nlirnywwvgex.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027334051, "dur":1047, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.IMGUIModule.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027335106, "dur":88, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027334038, "dur":1157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9qmekf0ah7rs.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027335255, "dur":335, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIModule.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027335601, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027335237, "dur":462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/061nntc7s128.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027335741, "dur":989, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics__3.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027336739, "dur":104, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027335724, "dur":1120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7o90kj6pk229.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027336904, "dur":108, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AIModule_CodeGen.c" }}
+,{ "pid":12345, "tid":10, "ts":1709617027336867, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8mf98hlvogzt.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027337239, "dur":179, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics_CodeGen.c" }}
+,{ "pid":12345, "tid":10, "ts":1709617027337216, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ie2tdsq5f32g.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027337508, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/y5c9v8ivihdz.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027337718, "dur":310, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027338036, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027337688, "dur":447, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/n7a7fuf0pki9.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027338382, "dur":449, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__10.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027338839, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027338361, "dur":562, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/23io14tdh24y.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027338964, "dur":1239, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__2.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027340214, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027338951, "dur":1361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/t0cgikem6zxt.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027340360, "dur":1151, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__1.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027341518, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027340347, "dur":1262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jvfw6gpj5luv.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027341834, "dur":308, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.2D.Animation.Runtime_CodeGen.c" }}
+,{ "pid":12345, "tid":10, "ts":1709617027341813, "dur":359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gps8j6eaj8d7.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027342218, "dur":401, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Configuration.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027342629, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027342201, "dur":527, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o1sifmvziit0.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027342792, "dur":962, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027343764, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027342769, "dur":1094, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/lbd5n7fgw4f9.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027343903, "dur":868, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__25.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027344779, "dur":71, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027343888, "dur":962, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/c6hr2l19eam0.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027344903, "dur":617, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextRenderingModule.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027345529, "dur":102, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027344891, "dur":740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/phqsqlssm6oy.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027345688, "dur":597, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__25.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027346295, "dur":101, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027345671, "dur":725, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3ji3t92bbuty.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027346511, "dur":658, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__14.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027347177, "dur":104, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027346490, "dur":791, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/afux1ij5uiqw.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027347327, "dur":1018, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__17.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027348356, "dur":110, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027347314, "dur":1152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bzokph4niha8.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027348508, "dur":466, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__8.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1709617027348983, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027348494, "dur":587, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/z84j7bq60cl1.o" }}
+,{ "pid":12345, "tid":10, "ts":1709617027349106, "dur":29418, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709617027378537, "dur":170, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-title-footer.png" }}
+,{ "pid":12345, "tid":10, "ts":1709617027379559, "dur":63045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-title-footer.png" }}
+,{ "pid":12345, "tid":10, "ts":1709617027442626, "dur":1616533, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027306580, "dur":6897, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027313483, "dur":564, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027314047, "dur":430, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027314478, "dur":575, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027315053, "dur":4822, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027319876, "dur":2730, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027322607, "dur":4043, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027326721, "dur":1591, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027328320, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027326653, "dur":1740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zc2q202o1b48.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027328432, "dur":79, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TilemapModule_CodeGen.c" }}
+,{ "pid":12345, "tid":11, "ts":1709617027328421, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/k7ydhj3hfr4w.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027328612, "dur":209, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\__Generated.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027328833, "dur":95, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027328588, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ost896py896z.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027328957, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jp4vwdqyz3ta.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027329081, "dur":871, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__16.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027329961, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027329070, "dur":983, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/w2h217d118iv.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027330099, "dur":84, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Configuration_CodeGen.c" }}
+,{ "pid":12345, "tid":11, "ts":1709617027330083, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/go6olz864691.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027330311, "dur":719, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__3.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027331039, "dur":102, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027330291, "dur":851, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/lvdvc1rq2lsz.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027331193, "dur":1312, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__10.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027332513, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027331172, "dur":1436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dfsqnsz65hs0.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027332706, "dur":666, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__24.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027333382, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027332686, "dur":779, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/byxai6kbb84k.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027333504, "dur":599, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreFontEngineModule.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027334113, "dur":106, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027333487, "dur":732, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/x9nq6bcu2d55.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027334264, "dur":630, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__2.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027334902, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027334252, "dur":730, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4ajkmq3g895e.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027335018, "dur":822, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics__2.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027335847, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027335007, "dur":923, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/m95c59rsherq.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027335971, "dur":633, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.VRModule.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027336611, "dur":88, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027335959, "dur":740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4r2xzzk9vbfi.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027336741, "dur":734, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__34.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027337485, "dur":111, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027336726, "dur":871, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i0xtqtasdd4f.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027337639, "dur":515, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PhysicsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":11, "ts":1709617027337627, "dur":559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/x6mqo5hq1fdm.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027338224, "dur":547, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System__2.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027338781, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027338212, "dur":674, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4pgzyuv6973c.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027339212, "dur":1290, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__11.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027340514, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027339193, "dur":1412, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o66al8n3u885.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027340693, "dur":701, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__1.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027341403, "dur":108, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027340669, "dur":842, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ku2hrzrldivl.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027341592, "dur":764, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Burst.Unsafe.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027342367, "dur":128, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027341574, "dur":921, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/am5vkda59ggq.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027342539, "dur":505, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.XRModule.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027343054, "dur":102, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027342524, "dur":632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mr5a166ny11d.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027343196, "dur":596, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__3.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027343804, "dur":101, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027343182, "dur":723, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/g8smf7fmzder.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027343969, "dur":737, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__65.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027344716, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027343950, "dur":856, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/k7yn5cy5p8nc.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027344847, "dur":599, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Assembly-CSharp.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027345461, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027344835, "dur":709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nsexayo33gud.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027345595, "dur":936, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__12.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027346537, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027345573, "dur":1061, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9laz0h20xwkp.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027346728, "dur":561, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__12.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027347298, "dur":116, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027346708, "dur":707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/or6s1to9nsxx.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027347512, "dur":957, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics__5.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1709617027348480, "dur":109, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027347493, "dur":1096, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tcx5k80lrsv8.o" }}
+,{ "pid":12345, "tid":11, "ts":1709617027348810, "dur":78, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/Build/index.data" }}
+,{ "pid":12345, "tid":11, "ts":1709617027348898, "dur":29631, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709617027379127, "dur":28507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/fullscreen-button.png" }}
+,{ "pid":12345, "tid":11, "ts":1709617027407655, "dur":1651486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027306656, "dur":6839, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027313496, "dur":598, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027314095, "dur":301, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027314396, "dur":586, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027314983, "dur":4849, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027319897, "dur":2707, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027322605, "dur":4049, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027326726, "dur":614, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TerrainModule.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027327349, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027326656, "dur":768, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/z00qnn9cdjwx.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027327465, "dur":518, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System_CodeGen.c" }}
+,{ "pid":12345, "tid":12, "ts":1709617027327999, "dur":50, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027327450, "dur":600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8n7bd31foche.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027328185, "dur":410, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.Mathematics__6.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027328610, "dur":141, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027328160, "dur":591, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/es0t0hfjug7r.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027328871, "dur":764, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AnimationModule.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027329643, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027328852, "dur":872, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uh2p33gti5tm.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027329881, "dur":225, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.IMGUIModule_CodeGen.c" }}
+,{ "pid":12345, "tid":12, "ts":1709617027329850, "dur":289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ldzih57c2hg3.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027330190, "dur":770, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__59.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027330968, "dur":76, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027330177, "dur":867, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5ntlsxvf054i.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027331107, "dur":339, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateFieldValues.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027331455, "dur":104, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027331087, "dur":472, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/y35zkwefsb8l.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027331598, "dur":67, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":12, "ts":1709617027331586, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/r3jqxwiys6yp.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027331750, "dur":903, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputModule.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027332663, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027331736, "dur":1032, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wip17q2473ul.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027332810, "dur":1214, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__13.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027334035, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027332795, "dur":1345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3ndbp3ew40oa.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027334206, "dur":1059, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__7.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027335273, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027334193, "dur":1159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/t6o4cfhig2dx.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027335388, "dur":164, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppMetadataRegistration.c" }}
+,{ "pid":12345, "tid":12, "ts":1709617027335377, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/td76d157skmc.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027335616, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hi78wly32d4u.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027335748, "dur":699, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputLegacyModule.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027336454, "dur":110, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027335735, "dur":829, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h8ywdtshlck1.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027336754, "dur":497, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__3.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027337259, "dur":123, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027336730, "dur":653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/egg4xtsj9n9c.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027337433, "dur":957, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System__3.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027338401, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027337418, "dur":1069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p5jne493cwfw.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027338566, "dur":87, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextRenderingModule_CodeGen.c" }}
+,{ "pid":12345, "tid":12, "ts":1709617027338546, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1vsnid3ecqmw.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027338734, "dur":226, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PhysicsModule.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027338968, "dur":102, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027338722, "dur":348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1weycrimtoij.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027339131, "dur":134, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppTypeDefinitions.c" }}
+,{ "pid":12345, "tid":12, "ts":1709617027339113, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/rg4r8gjch859.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027339364, "dur":1113, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateFieldValues1.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027340486, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027339345, "dur":1233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ljsen83yuky7.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027340732, "dur":182, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityAnalyticsCommonModule_CodeGen.c" }}
+,{ "pid":12345, "tid":12, "ts":1709617027340661, "dur":291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4s72qcnuuzy3.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027341016, "dur":1304, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__17.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027342329, "dur":126, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027340999, "dur":1456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hilqhhsy4wue.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027342503, "dur":849, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule__1.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027343362, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027342490, "dur":964, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/c7tfw22q21pc.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027343540, "dur":954, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__18.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027344503, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027343521, "dur":1080, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/d9xgjecpw0tz.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027344637, "dur":1131, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCodeRegistration.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027345777, "dur":95, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027344624, "dur":1248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bhhnpwpohpms.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027345933, "dur":928, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TilemapModule.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027346869, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027345914, "dur":1036, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/c8cgffvy5wxc.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027347119, "dur":1118, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__4.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027348248, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027347098, "dur":1250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7pa3b42foa5z.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027348411, "dur":554, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Destrua o Castelo\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__32.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1709617027348973, "dur":108, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027348398, "dur":683, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/c5qhvaix70gd.o" }}
+,{ "pid":12345, "tid":12, "ts":1709617027349125, "dur":29411, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709617027378543, "dur":130, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-light.png" }}
+,{ "pid":12345, "tid":12, "ts":1709617027379603, "dur":114258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-light.png" }}
+,{ "pid":12345, "tid":12, "ts":1709617027493894, "dur":1565274, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709617029069554, "dur":1901, "ph":"X", "name": "ProfilerWriteOutput" }
+,

@@ -9,8 +9,6 @@ public class UIManager : MonoBehaviour
 
     public static UIManager instance;
 
-    //public io.newgrounds.core ngio_core;
-
     public Animator painelGameOver, painelWin, painelPause;
     public Button winBtnMenu, winBtnNovamente, winBtnProximo;
     public Animator estrela1, estrela2, estrela3;
@@ -38,17 +36,6 @@ public class UIManager : MonoBehaviour
         DadosParaCarregamento();
     }
 
-    /*void unlockMedal(int medal_id) {
-        io.newgrounds.components.Medal.unlock medal_unlock = new io.newgrounds.components.Medal.unlock();
-        medal_unlock.id = medal_id;
-        medal_unlock.callWith(ngio_core, onMedalUnlocked);
-    }
-
-    void onMedalUnlocked(io.newgrounds.results.Medal.unlock result) {
-        io.newgrounds.objects.medal medal = result.medal;
-        Debug.Log( "Medal Unlocked: " + medal.name + " (" + medal.value + " points)" );
-    }*/
-
     void Carrega(Scene cena, LoadSceneMode modo)
     {
         DadosParaCarregamento();
@@ -58,7 +45,6 @@ public class UIManager : MonoBehaviour
     {
         if (OndeEstou.instance.fase != 0 && OndeEstou.instance.fase != 25 && OndeEstou.instance.fase != 26 && OndeEstou.instance.fase != 27 && OndeEstou.instance.fase != 28)
         {
-            //ngio_core = GameObject.Find("Newgrounds.io Object").GetComponent<io.newgrounds.core>();
             //Painel
             painelGameOver = GameObject.Find("Menu_Lose").GetComponent<Animator>();
             painelWin = GameObject.Find("Menu_Win").GetComponent<Animator>();
@@ -148,13 +134,11 @@ public class UIManager : MonoBehaviour
     {
         if (OndeEstou.instance.faseN == "Level12_Mestra1")
         {
-            //unlockMedal(70882);
             SceneManager.LoadScene("MenuFasesPai");
             AudioManager.instance.GetSom(1);
         }
         else if(OndeEstou.instance.faseN == "Level24_Mestra2")
         {
-            //unlockMedal(70883);
             SceneManager.LoadScene("MenuFasesPai");
             AudioManager.instance.GetSom(1);
         } 

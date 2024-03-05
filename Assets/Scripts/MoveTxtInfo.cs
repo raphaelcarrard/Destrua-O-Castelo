@@ -41,6 +41,7 @@ public class MoveTxtInfo : MonoBehaviour
 
     public void LiberaMov()
     {
+        NGHelper.instance.unlockMedal(77632);
         btnBlock.SetActive(true);
         nomeGame.SetActive(false);
         libera = true;

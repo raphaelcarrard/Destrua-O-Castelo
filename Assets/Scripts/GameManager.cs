@@ -6,8 +6,6 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
 
-    //public io.newgrounds.core ngio_core;
-
     public static GameManager instance;
     public GameObject[] objetos;
     public int objetosNum;
@@ -28,6 +26,9 @@ public class GameManager : MonoBehaviour
     public int pontosGame, bestPontoGame;
     public bool pausado = false;
     public int morteReis;
+    public bool medal1, medal2, medal3;
+    public bool winLevel1Stage1, winLevel3Stage1, winLevel5Stage1, winLevel7Stage1, winLevel9Stage1, winLevel11Stage1, winStage1;
+    public bool winLevel1Stage2, winLevel3Stage2, winLevel5Stage2, winLevel7Stage2, winLevel9Stage2, winLevel11Stage2, winStage2;
 
     void Awake() 
         {
@@ -45,20 +46,8 @@ public class GameManager : MonoBehaviour
         SceneManager.sceneLoaded += Carrega;
     } 
 
-    /*void unlockMedal(int medal_id) {
-        io.newgrounds.components.Medal.unlock medal_unlock = new io.newgrounds.components.Medal.unlock();
-        medal_unlock.id = medal_id;
-        medal_unlock.callWith(ngio_core, onMedalUnlocked);
-    }
-
-    void onMedalUnlocked(io.newgrounds.results.Medal.unlock result) {
-        io.newgrounds.objects.medal medal = result.medal;
-        Debug.Log( "Medal Unlocked: " + medal.name + " (" + medal.value + " points)" );
-    }*/
-
     void Carrega(Scene cena, LoadSceneMode modo)
     {
-        //ngio_core = GameObject.Find("Newgrounds.io Object").GetComponent<io.newgrounds.core>();
         if (OndeEstou.instance.fase != 0 && OndeEstou.instance.fase != 25 && OndeEstou.instance.fase != 26 && OndeEstou.instance.fase != 27 && OndeEstou.instance.fase != 28)
         {
             pos = GameObject.FindWithTag("pos").GetComponent<Transform>();
@@ -232,6 +221,62 @@ public class GameManager : MonoBehaviour
 
         if (win)
         {
+            if (OndeEstou.instance.faseN == "Level1_Mestra1" && winLevel1Stage1 == false){
+                NGHelper.instance.unlockMedal(77635);
+                winLevel1Stage1 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level3_Mestra1" && winLevel3Stage1 == false){
+                NGHelper.instance.unlockMedal(77636);
+                winLevel3Stage1 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level5_Mestra1" && winLevel5Stage1 == false){
+                NGHelper.instance.unlockMedal(77637);
+                winLevel5Stage1 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level7_Mestra1" && winLevel7Stage1 == false){
+                NGHelper.instance.unlockMedal(77638);
+                winLevel7Stage1 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level9_Mestra1" && winLevel9Stage1 == false){
+                NGHelper.instance.unlockMedal(77639);
+                winLevel9Stage1 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level11_Mestra1" && winLevel11Stage1 == false){
+                NGHelper.instance.unlockMedal(77640);
+                winLevel11Stage1 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level12_Mestra1" && winStage1 == false){
+                NGHelper.instance.unlockMedal(70882);
+                winStage1 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level13_Mestra2" && winLevel1Stage2 == false){
+                NGHelper.instance.unlockMedal(77641);
+                winLevel1Stage2 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level15_Mestra2" && winLevel3Stage2 == false){
+                NGHelper.instance.unlockMedal(77642);
+                winLevel3Stage2 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level17_Mestra2" && winLevel5Stage2 == false){
+                NGHelper.instance.unlockMedal(77643);
+                winLevel5Stage2 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level19_Mestra2" && winLevel7Stage2 == false){
+                NGHelper.instance.unlockMedal(77644);
+                winLevel7Stage2 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level21_Mestra2" && winLevel9Stage2 == false){
+                NGHelper.instance.unlockMedal(77645);
+                winLevel9Stage2 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level23_Mestra2" && winLevel11Stage2 == false){
+                NGHelper.instance.unlockMedal(77646);
+                winLevel11Stage2 = true;
+            }
+            if (OndeEstou.instance.faseN == "Level24_Mestra2" && winStage2 == false){
+                NGHelper.instance.unlockMedal(70883);
+                winStage2 = true;
+            }
             WinGame();
         }
         else if (lose)
@@ -243,9 +288,17 @@ public class GameManager : MonoBehaviour
         {
             NascObjeto();
         }
-
-        /*if(morteReis == 25){
-            unlockMedal(70884);
-        }*/
+        if(morteReis >= 10 && medal1 == false){
+            NGHelper.instance.unlockMedal(77633);
+            medal1 = true;
+        }
+        if(morteReis >= 25 && medal2 == false){
+            NGHelper.instance.unlockMedal(70884);
+            medal2 = true;
+        }
+        if(morteReis >= 50 && medal3 == false){
+            NGHelper.instance.unlockMedal(77634);
+            medal3 = true;
+        }
     }
 }

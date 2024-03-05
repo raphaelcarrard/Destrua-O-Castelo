@@ -25,6 +25,7 @@ TagManager:
   - textEstrela
   - textEstrela2
   - clone
+  - Activator
   layers:
   - Default
   - TransparentFX
@@ -64,4 +65,7 @@ TagManager:
     locked: 0
   - name: Game
     uniqueID: 278804299
+    locked: 0
+  - name: Arrows
+    uniqueID: 2545101611
     locked: 0

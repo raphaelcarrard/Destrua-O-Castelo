@@ -39,6 +39,9 @@ public class AudioManager : MonoBehaviour
         {
             audioS.Play();
         }
+        if(OndeEstou.instance.fase == 29){
+            Destroy(gameObject);
+        }
     }
 
     public void GetSom(int clips)
