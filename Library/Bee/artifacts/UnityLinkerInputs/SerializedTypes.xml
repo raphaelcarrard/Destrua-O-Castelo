@@ -2,6 +2,15 @@
 	<assembly fullname="Assembly-CSharp">
 		<type fullname=".LevelManagerDOC/Level" preserve="nothing" serialized="true"/>
 	</assembly>
+	<assembly fullname="Unity.InputSystem">
+		<type fullname="UnityEngine.InputSystem.InputAction" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.InputActionMap" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.InputBinding" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.PlayerInput/ActionEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.PlayerInput/ControlsChangedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.PlayerInput/DeviceLostEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.PlayerInput/DeviceRegainedEvent" preserve="nothing" serialized="true"/>
+	</assembly>
 	<assembly fullname="Unity.TextMeshPro">
 		<type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true"/>
 		<type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true"/>

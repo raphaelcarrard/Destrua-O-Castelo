@@ -481,11 +481,12 @@ struct TextElementType_tEBCF09EEF888E8B1F62D3DD66AF21890D12545EB
 struct TextHandle_tA1D5C98B154F1F73CBD35E42EB4E9CCB02280EF8  : public RuntimeObject
 {
 	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___U3CpreferredSizeU3Ek__BackingField;
-	Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___screenRect;
-	float ___lineHeightDefault;
-	bool ___isPlaceholder;
+	Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___m_ScreenRect;
+	float ___m_LineHeightDefault;
+	bool ___m_IsPlaceholder;
 	bool ___m_IsCached;
 	LinkedListNode_1_tEDF222D174FAF0C58C72E0F07A3AB62AD6EB3E76* ___m_TextInfoNode;
+	bool ___m_IsEllided;
 	int32_t ___m_PreviousGenerationSettingsHash;
 	bool ___isDirty;
 };
@@ -6296,7 +6297,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Action_Invoke_m7126A54DACA72
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool TextHandle_get_IsPlaceholder_m009132CDAC2C0E7C785A4CA97F4DF2B7B2A1B1D0_inline (TextHandle_tA1D5C98B154F1F73CBD35E42EB4E9CCB02280EF8* __this, const RuntimeMethod* method) 
 {
 	{
-		bool L_0 = __this->___isPlaceholder;
+		bool L_0 = __this->___m_IsPlaceholder;
 		return L_0;
 	}
 }

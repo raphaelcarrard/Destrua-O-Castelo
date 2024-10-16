@@ -3606,6 +3606,7 @@ struct RenderChainVEData_t582DE9DA38C6B608A9A38286FCF6FA70398B5847
 	bool ___localFlipsWinding;
 	bool ___localTransformScaleZero;
 	bool ___worldFlipsWinding;
+	bool ___worldTransformScaleZero;
 	int32_t ___clipMethod;
 	int32_t ___childrenStencilRef;
 	int32_t ___childrenMaskDepth;
@@ -3648,6 +3649,7 @@ struct RenderChainVEData_t582DE9DA38C6B608A9A38286FCF6FA70398B5847_marshaled_pin
 	int32_t ___localFlipsWinding;
 	int32_t ___localTransformScaleZero;
 	int32_t ___worldFlipsWinding;
+	int32_t ___worldTransformScaleZero;
 	int32_t ___clipMethod;
 	int32_t ___childrenStencilRef;
 	int32_t ___childrenMaskDepth;
@@ -3690,6 +3692,7 @@ struct RenderChainVEData_t582DE9DA38C6B608A9A38286FCF6FA70398B5847_marshaled_com
 	int32_t ___localFlipsWinding;
 	int32_t ___localTransformScaleZero;
 	int32_t ___worldFlipsWinding;
+	int32_t ___worldTransformScaleZero;
 	int32_t ___clipMethod;
 	int32_t ___childrenStencilRef;
 	int32_t ___childrenMaskDepth;
@@ -3744,6 +3747,7 @@ struct DataBinding_t4AEDF779EB49F9E11B45F99385482936B2FC34DA  : public Binding_t
 	ConverterGroup_t2D7DEDAC22662EF5C020DE54231DC23CD0B5268A* ___m_SourceToUiConverters;
 	ConverterGroup_t2D7DEDAC22662EF5C020DE54231DC23CD0B5268A* ___m_UiToSourceConverters;
 	RuntimeObject* ___U3CdataSourceU3Ek__BackingField;
+	Type_t* ___U3CdataSourceTypeU3Ek__BackingField;
 	PropertyPath_tA523CA2740853534DF6C009C588464B45A6D0A79 ___U3CdataSourcePathU3Ek__BackingField;
 };
 struct DataSourceContext_t7458B85023D9BF30FBDC3023358BD2FB7BBE0332 
@@ -25451,6 +25455,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DataBinding_set_dataSource_mA812D1A9E325
 		RuntimeObject* L_0 = ___0_value;
 		__this->___U3CdataSourceU3Ek__BackingField = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CdataSourceU3Ek__BackingField), (void*)L_0);
+		return;
+	}
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Type_t* DataBinding_get_dataSourceType_m7CA33A6B52ED0228ECD399F9DC66BE50B90D2D2E (DataBinding_t4AEDF779EB49F9E11B45F99385482936B2FC34DA* __this, const RuntimeMethod* method) 
+{
+	{
+		Type_t* L_0 = __this->___U3CdataSourceTypeU3Ek__BackingField;
+		return L_0;
+	}
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DataBinding_set_dataSourceType_m653AE26D09B7039D9F2E85D0B0233E843F8E92E1 (DataBinding_t4AEDF779EB49F9E11B45F99385482936B2FC34DA* __this, Type_t* ___0_value, const RuntimeMethod* method) 
+{
+	{
+		Type_t* L_0 = ___0_value;
+		__this->___U3CdataSourceTypeU3Ek__BackingField = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CdataSourceTypeU3Ek__BackingField), (void*)L_0);
 		return;
 	}
 }

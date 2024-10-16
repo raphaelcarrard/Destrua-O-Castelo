@@ -835,6 +835,7 @@ IL2CPP_EXTERN_C const RuntimeMethod* BaseFieldTraits_2_Init_m1BC7B413F11E4A2ED55
 IL2CPP_EXTERN_C const RuntimeMethod* BaseFieldTraits_2_Init_m1E2180EBE5AAEA54064ACDF3605BDBF67F2B5643_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* BaseFieldTraits_2_Init_m765BE03BDB7A4A470F510B71C4E8B929FEC37868_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* BaseFieldTraits_2__ctor_m2D4334766694BAC364CA1330E538A378D28D1906_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* BaseField_1_OnViewDataReady_mCD3E429A50FDA645FBC610C180EE4110C80C98B6_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* BaseField_1_SetValueWithoutNotify_m83A3E0BB755F354AC7989A1B7B3F7E90645D2DBF_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* BaseField_1__ctor_m9AC8D62E09E650099B9FD1889ABAD267D73BFF92_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* BaseField_1_get_labelElement_m21543A0B534B9CBCF670C1D5E3805DD5DDF867FC_RuntimeMethod_var;
@@ -2241,6 +2242,10 @@ struct Delegate_t_marshaled_com
 	int32_t ___method_is_virtual;
 };
 struct DeltaSpeed_t3AE7DFB9E4296A1E7C1ABA89030FB28D20304F59 
+{
+	int32_t ___value__;
+};
+struct DispatchMode_t19462FC6D47F5BF63B55FBDEB5C7D498D50DB3DC 
 {
 	int32_t ___value__;
 };
@@ -3820,6 +3825,7 @@ struct RenderChainVEData_t582DE9DA38C6B608A9A38286FCF6FA70398B5847
 	bool ___localFlipsWinding;
 	bool ___localTransformScaleZero;
 	bool ___worldFlipsWinding;
+	bool ___worldTransformScaleZero;
 	int32_t ___clipMethod;
 	int32_t ___childrenStencilRef;
 	int32_t ___childrenMaskDepth;
@@ -3862,6 +3868,7 @@ struct RenderChainVEData_t582DE9DA38C6B608A9A38286FCF6FA70398B5847_marshaled_pin
 	int32_t ___localFlipsWinding;
 	int32_t ___localTransformScaleZero;
 	int32_t ___worldFlipsWinding;
+	int32_t ___worldTransformScaleZero;
 	int32_t ___clipMethod;
 	int32_t ___childrenStencilRef;
 	int32_t ___childrenMaskDepth;
@@ -3904,6 +3911,7 @@ struct RenderChainVEData_t582DE9DA38C6B608A9A38286FCF6FA70398B5847_marshaled_com
 	int32_t ___localFlipsWinding;
 	int32_t ___localTransformScaleZero;
 	int32_t ___worldFlipsWinding;
+	int32_t ___worldTransformScaleZero;
 	int32_t ___clipMethod;
 	int32_t ___childrenStencilRef;
 	int32_t ___childrenMaskDepth;
@@ -4570,6 +4578,8 @@ struct ScrollView_t7CE209084E084FAA0E8DF3CD8E3B8BB9EB27E8D9  : public VisualElem
 	float ___m_VerticalPageSize;
 	float ___m_MouseWheelScrollSize;
 	float ___m_ScrollDecelerationRate;
+	float ___k_ScaledPixelsPerPointMultiplier;
+	float ___k_TouchScrollInertiaBaseTimeInterval;
 	float ___m_Elasticity;
 	int32_t ___m_TouchScrollBehavior;
 	int32_t ___m_NestedInteractionKind;
@@ -4578,9 +4588,12 @@ struct ScrollView_t7CE209084E084FAA0E8DF3CD8E3B8BB9EB27E8D9  : public VisualElem
 	Scroller_tFE2BC2FCB5D2BD623828C332E0BBF95D472D99A8* ___U3CverticalScrollerU3Ek__BackingField;
 	VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115* ___m_ContentContainer;
 	VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115* ___m_ContentAndVerticalScrollContainer;
+	float ___previousVerticalTouchScrollTimeStamp;
+	float ___previousHorizontalTouchScrollTimeStamp;
+	float ___elapsedTimeSinceLastVerticalTouchScroll;
+	float ___elapsedTimeSinceLastHorizontalTouchScroll;
 	int32_t ___m_Mode;
 	RuntimeObject* ___m_ScheduledLayoutPassResetItem;
-	int32_t ___m_ScrollingPointerId;
 	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___m_StartPosition;
 	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___m_PointerStartPosition;
 	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___m_Velocity;
@@ -4589,6 +4602,7 @@ struct ScrollView_t7CE209084E084FAA0E8DF3CD8E3B8BB9EB27E8D9  : public VisualElem
 	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___m_HighBounds;
 	float ___m_LastVelocityLerpTime;
 	bool ___m_StartedMoving;
+	bool ___m_TouchPointerMoveAllowed;
 	bool ___m_TouchStoppedVelocity;
 	VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115* ___m_CapturedTarget;
 	EventCallback_1_t7C6768AD962B0B50514570724A38E07DA18FB1FA* ___m_CapturedTargetPointerMoveCallback;
@@ -4687,6 +4701,7 @@ struct BaseField_1_t33E37D3A182C1DDE900EA4039FE03BF68FD0CD26  : public BindableE
 	VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115* ___m_VisualInput;
 	bool ___m_Value;
 	Func_2_t66AC14B29DD8B1DDD05693A14E55CF7707C762DB* ___onValidateValue;
+	int32_t ___U3CdispatchModeU3Ek__BackingField;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___U3ClabelElementU3Ek__BackingField;
 	bool ___m_ShowMixedValue;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___m_MixedValueLabel;
@@ -4705,6 +4720,7 @@ struct BaseField_1_tB351B262306464787F5A31B33CDC431E89796615  : public BindableE
 	VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115* ___m_VisualInput;
 	int32_t ___m_Value;
 	Func_2_t2FDA873D8482C79555CFB05233D610E8F1C7C354* ___onValidateValue;
+	int32_t ___U3CdispatchModeU3Ek__BackingField;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___U3ClabelElementU3Ek__BackingField;
 	bool ___m_ShowMixedValue;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___m_MixedValueLabel;
@@ -4723,6 +4739,7 @@ struct BaseField_1_t1BD309672FAB87887168305A09C320E26F166DA7  : public BindableE
 	VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115* ___m_VisualInput;
 	float ___m_Value;
 	Func_2_t2A7432CC4F64D0DF6D8629208B154CF139B39AF2* ___onValidateValue;
+	int32_t ___U3CdispatchModeU3Ek__BackingField;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___U3ClabelElementU3Ek__BackingField;
 	bool ___m_ShowMixedValue;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___m_MixedValueLabel;
@@ -4741,6 +4758,7 @@ struct BaseField_1_t4EB446A18E475B5B52D3D686F905A99026CF1FAD  : public BindableE
 	VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115* ___m_VisualInput;
 	ToggleButtonGroupState_tB95F0A0DB8DAC1DC57EE02C7610744AB9FC268C2 ___m_Value;
 	Func_2_t34F9DC96048C040D6199FDD5E61638690A63AA75* ___onValidateValue;
+	int32_t ___U3CdispatchModeU3Ek__BackingField;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___U3ClabelElementU3Ek__BackingField;
 	bool ___m_ShowMixedValue;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___m_MixedValueLabel;
@@ -4759,6 +4777,7 @@ struct BaseField_1_t6C006A5753EBBCE7485D9205F7DDA7387F6CBA5C  : public BindableE
 	VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115* ___m_VisualInput;
 	uint32_t ___m_Value;
 	Func_2_t9A0EC31CF651400F36A816B75727B7A125B71A19* ___onValidateValue;
+	int32_t ___U3CdispatchModeU3Ek__BackingField;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___U3ClabelElementU3Ek__BackingField;
 	bool ___m_ShowMixedValue;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___m_MixedValueLabel;
@@ -4777,6 +4796,7 @@ struct BaseField_1_tF7A72945DC1CD809709A9E7805F92E7D25789942  : public BindableE
 	VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115* ___m_VisualInput;
 	uint64_t ___m_Value;
 	Func_2_tCCF02F7A2CB745300B9C766290B7B59C2CE4CEE7* ___onValidateValue;
+	int32_t ___U3CdispatchModeU3Ek__BackingField;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___U3ClabelElementU3Ek__BackingField;
 	bool ___m_ShowMixedValue;
 	Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70* ___m_MixedValueLabel;
@@ -6106,6 +6126,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseFieldTraits_2__ctor_mBB0392BE07E273C
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Span_1__ctor_m31EE4A5510B5C504DB26DB281BC7D4179B859F2B_gshared_inline (Span_1_t3C5DB525B005B1AC5A1F3BDD528900C5C7C7D316* __this, void* ___0_pointer, int32_t ___1_length, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Span_1_get_Length_m87AB3C694F2E4802F14D006F21C020816045285F_gshared_inline (Span_1_t3C5DB525B005B1AC5A1F3BDD528900C5C7C7D316* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseField_1__ctor_m9AC8D62E09E650099B9FD1889ABAD267D73BFF92_gshared (BaseField_1_t4EB446A18E475B5B52D3D686F905A99026CF1FAD* __this, String_t* ___0_label, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseField_1_OnViewDataReady_mCD3E429A50FDA645FBC610C180EE4110C80C98B6_gshared (BaseField_1_t4EB446A18E475B5B52D3D686F905A99026CF1FAD* __this, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool BaseField_1_get_showMixedValue_m6351921898A9D9E8A58D4EA5C4EAC4BFDDB658C1_gshared_inline (BaseField_1_t4EB446A18E475B5B52D3D686F905A99026CF1FAD* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseField_1_SetValueWithoutNotify_m83A3E0BB755F354AC7989A1B7B3F7E90645D2DBF_gshared (BaseField_1_t4EB446A18E475B5B52D3D686F905A99026CF1FAD* __this, ToggleButtonGroupState_tB95F0A0DB8DAC1DC57EE02C7610744AB9FC268C2 ___0_newValue, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR UQueryBuilder_1_t8CB9E64859C07C671A5AFE928DC28F2828EC1BD2 UQueryExtensions_Query_TisRuntimeObject_m54F26487B79AE0ECC38A0B9D6615D7FD6B1F56C9_gshared (VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115* ___0_e, String_t* ___1_name, String_t* ___2_className, const RuntimeMethod* method) ;
@@ -6975,6 +6996,11 @@ inline void BaseField_1__ctor_m9AC8D62E09E650099B9FD1889ABAD267D73BFF92 (BaseFie
 {
 	((  void (*) (BaseField_1_t4EB446A18E475B5B52D3D686F905A99026CF1FAD*, String_t*, const RuntimeMethod*))BaseField_1__ctor_m9AC8D62E09E650099B9FD1889ABAD267D73BFF92_gshared)(__this, ___0_label, method);
 }
+inline void BaseField_1_OnViewDataReady_mCD3E429A50FDA645FBC610C180EE4110C80C98B6 (BaseField_1_t4EB446A18E475B5B52D3D686F905A99026CF1FAD* __this, const RuntimeMethod* method)
+{
+	((  void (*) (BaseField_1_t4EB446A18E475B5B52D3D686F905A99026CF1FAD*, const RuntimeMethod*))BaseField_1_OnViewDataReady_mCD3E429A50FDA645FBC610C180EE4110C80C98B6_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ToggleButtonGroup_UpdateButtonStates_mCDE1D80834D369EA5F795C32D2DCBCF7F1548C8A (ToggleButtonGroup_tB4CF13F4A3EB279A001D5A817167FEAFF72B33B4* __this, ToggleButtonGroupState_tB95F0A0DB8DAC1DC57EE02C7610744AB9FC268C2 ___0_options, const RuntimeMethod* method) ;
 inline bool BaseField_1_get_showMixedValue_m6351921898A9D9E8A58D4EA5C4EAC4BFDDB658C1_inline (BaseField_1_t4EB446A18E475B5B52D3D686F905A99026CF1FAD* __this, const RuntimeMethod* method)
 {
 	return ((  bool (*) (BaseField_1_t4EB446A18E475B5B52D3D686F905A99026CF1FAD*, const RuntimeMethod*))BaseField_1_get_showMixedValue_m6351921898A9D9E8A58D4EA5C4EAC4BFDDB658C1_gshared_inline)(__this, method);
@@ -6999,7 +7025,6 @@ inline void BaseField_1_SetValueWithoutNotify_m83A3E0BB755F354AC7989A1B7B3F7E906
 {
 	((  void (*) (BaseField_1_t4EB446A18E475B5B52D3D686F905A99026CF1FAD*, ToggleButtonGroupState_tB95F0A0DB8DAC1DC57EE02C7610744AB9FC268C2, const RuntimeMethod*))BaseField_1_SetValueWithoutNotify_m83A3E0BB755F354AC7989A1B7B3F7E90645D2DBF_gshared)(__this, ___0_newValue, method);
 }
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ToggleButtonGroup_UpdateButtonStates_mCDE1D80834D369EA5F795C32D2DCBCF7F1548C8A (ToggleButtonGroup_tB4CF13F4A3EB279A001D5A817167FEAFF72B33B4* __this, ToggleButtonGroupState_tB95F0A0DB8DAC1DC57EE02C7610744AB9FC268C2 ___0_options, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Debug_LogWarning_m33EF1B897E0C7C6FF538989610BFAFFEF4628CA9 (RuntimeObject* ___0_message, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Clickable_tED3E313565F64BDF5DA9D3FE0FEFFD0E17E53834* Button_get_clickable_m0204E736F790BAF6761F6CCB50B3271A68F16C75 (Button_t8EC3B431665F84C0B637C11B0EA29236828646C2* __this, const RuntimeMethod* method) ;
 inline void Action_1__ctor_m1A92C58D7FD083E3BE392CF3C0116F93B8E59FBB (Action_1_t741CBBCB28E18BDBDEED4AE3BD7DBEEEA526DA43* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method)
@@ -16818,6 +16843,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ToggleButtonGroup__ctor_mE6D9D0B8A4C43AC
 		return;
 	}
 }
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ToggleButtonGroup_OnViewDataReady_m504EEDDEF1D2E19BD3AB715D5DB33E213CEC8C01 (ToggleButtonGroup_tB4CF13F4A3EB279A001D5A817167FEAFF72B33B4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseField_1_OnViewDataReady_mCD3E429A50FDA645FBC610C180EE4110C80C98B6_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		BaseField_1_OnViewDataReady_mCD3E429A50FDA645FBC610C180EE4110C80C98B6(__this, BaseField_1_OnViewDataReady_mCD3E429A50FDA645FBC610C180EE4110C80C98B6_RuntimeMethod_var);
+		ToggleButtonGroupState_tB95F0A0DB8DAC1DC57EE02C7610744AB9FC268C2 L_0;
+		L_0 = VirtualFuncInvoker0< ToggleButtonGroupState_tB95F0A0DB8DAC1DC57EE02C7610744AB9FC268C2 >::Invoke(139, __this);
+		ToggleButtonGroup_UpdateButtonStates_mCDE1D80834D369EA5F795C32D2DCBCF7F1548C8A(__this, L_0, NULL);
+		return;
+	}
+}
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ToggleButtonGroup_UpdateMixedValueContent_m36F854F74559FC3AFC4AAF6AF9A69CD99B7B08C4 (ToggleButtonGroup_tB4CF13F4A3EB279A001D5A817167FEAFF72B33B4* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -18371,7 +18412,7 @@ IL_005b:
 	{
 		uint64_t L_17 = __this->___m_Data;
 		uint64_t L_18 = V_0;
-		__this->___m_Data = ((int64_t)((int64_t)L_17&(int64_t)((~L_18))));
+		__this->___m_Data = ((int64_t)((int64_t)L_17&((~((int64_t)L_18)))));
 	}
 
 IL_006a:
@@ -18578,7 +18619,7 @@ IL_0005:
 		V_1 = ((int64_t)(((int64_t)1)<<((int32_t)(L_1&((int32_t)63)))));
 		uint64_t L_2 = __this->___m_Data;
 		uint64_t L_3 = V_1;
-		__this->___m_Data = ((int64_t)((int64_t)L_2&(int64_t)((~L_3))));
+		__this->___m_Data = ((int64_t)((int64_t)L_2&((~((int64_t)L_3)))));
 		int32_t L_4 = V_0;
 		V_0 = ((int32_t)il2cpp_codegen_add(L_4, 1));
 	}

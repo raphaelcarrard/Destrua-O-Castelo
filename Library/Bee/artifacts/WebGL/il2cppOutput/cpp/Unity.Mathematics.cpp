@@ -28897,7 +28897,7 @@ IL_0006:
 	{
 		uint64_t L_1 = ___0_x;
 		uint64_t L_2 = ___0_x;
-		___0_x = ((int64_t)((int64_t)L_1&(int64_t)((-((int64_t)L_2)))));
+		___0_x = ((int64_t)((int64_t)L_1&((-((int64_t)L_2)))));
 		uint64_t L_3 = ___0_x;
 		V_0 = ((int32_t)(uint32_t)L_3);
 		uint32_t L_4 = V_0;
@@ -68964,7 +68964,7 @@ IL_0006:
 	{
 		uint64_t L_1 = ___0_x;
 		uint64_t L_2 = ___0_x;
-		___0_x = ((int64_t)((int64_t)L_1&(int64_t)((-((int64_t)L_2)))));
+		___0_x = ((int64_t)((int64_t)L_1&((-((int64_t)L_2)))));
 		uint64_t L_3 = ___0_x;
 		V_0 = ((int32_t)(uint32_t)L_3);
 		uint32_t L_4 = V_0;

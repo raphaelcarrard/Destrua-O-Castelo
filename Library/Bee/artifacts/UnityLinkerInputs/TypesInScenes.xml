@@ -6,6 +6,7 @@
 		<type fullname="botaoLevel" preserve="nothing"/>
 		<type fullname="Btn_Confs" preserve="nothing"/>
 		<type fullname="ButtonController" preserve="nothing"/>
+		<type fullname="CameraDrag" preserve="nothing"/>
 		<type fullname="CameraSegue" preserve="nothing"/>
 		<type fullname="CameraSizeHandler" preserve="nothing"/>
 		<type fullname="CriaObjetosUI" preserve="nothing"/>
@@ -37,6 +38,7 @@
 		<type fullname="ScrollCeuCena" preserve="nothing"/>
 		<type fullname="ScrollUI" preserve="nothing"/>
 		<type fullname="SecretGame" preserve="nothing"/>
+		<type fullname="SetWorldBounds" preserve="nothing"/>
 		<type fullname="TesteInp" preserve="nothing"/>
 		<type fullname="UIManager" preserve="nothing"/>
 		<type fullname="Veloz" preserve="nothing"/>
@@ -47,6 +49,13 @@
 		<type fullname="UnityEngine.U2D.Animation.BufferManager" preserve="nothing"/>
 		<type fullname="UnityEngine.U2D.Animation.DeformationManager" preserve="nothing"/>
 		<type fullname="UnityEngine.U2D.Animation.DeformationManagerUpdater" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.InputSystem">
+		<type fullname="UnityEngine.InputSystem.InputActionAsset" preserve="nothing"/>
+		<type fullname="UnityEngine.InputSystem.InputSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.InputSystem.InputSystemObject" preserve="nothing"/>
+		<type fullname="UnityEngine.InputSystem.PlayerInput" preserve="nothing"/>
+		<type fullname="UnityEngine.InputSystem.RemoteInputPlayerConnection" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.TextMeshPro">
 		<type fullname="TMPro.TextMeshProUGUI" preserve="nothing"/>

@@ -21,7 +21,7 @@ public class impactAnimaRei : MonoBehaviour
     {
         if (GameManager.instance.jogoComecou == true)
         {
-            if (col.relativeVelocity.magnitude > 4 && col.relativeVelocity.magnitude < 10)
+            if (col.relativeVelocity.magnitude > 1 && col.relativeVelocity.magnitude < 6)
             {
                 if (limite < clips.Length - 1)
                 {

@@ -3133,7 +3133,7 @@ struct TMP_InputField_t3488E0EE8C3DF56C6A328EC95D1BEEA2DF4A7D5F  : public Select
 	bool ___m_PreventCallback;
 	bool ___m_TouchKeyboardAllowsInPlaceEditing;
 	bool ___m_IsTextComponentUpdateRequired;
-	bool ___m_isLastKeyBackspace;
+	bool ___m_HasTextBeenRemoved;
 	float ___m_PointerDownClickStartTime;
 	float ___m_KeyDownStartTime;
 	float ___m_DoubleClickDelay;

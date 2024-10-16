@@ -17211,7 +17211,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t Bmi1_andn_u32_m897970C61DB50720EC337
 	{
 		uint32_t L_0 = ___0_a;
 		uint32_t L_1 = ___1_b;
-		return ((int32_t)((int32_t)((~L_0))&(int32_t)L_1));
+		return ((int32_t)(((~((int32_t)L_0)))&(int32_t)L_1));
 	}
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint64_t Bmi1_andn_u64_m162FA7817B4FC9FBA72E50FA45DA241883425A55 (uint64_t ___0_a, uint64_t ___1_b, const RuntimeMethod* method) 
@@ -17219,7 +17219,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint64_t Bmi1_andn_u64_m162FA7817B4FC9FBA72E5
 	{
 		uint64_t L_0 = ___0_a;
 		uint64_t L_1 = ___1_b;
-		return ((int64_t)((int64_t)((~L_0))&(int64_t)L_1));
+		return ((int64_t)(((~((int64_t)L_0)))&(int64_t)L_1));
 	}
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t Bmi1_bextr_u32_m86A416987021C07AD1A96E54C85DC8CEC14FBCAC (uint32_t ___0_a, uint32_t ___1_start, uint32_t ___2_len, const RuntimeMethod* method) 
@@ -17343,7 +17343,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t Bmi1_blsi_u32_m9CA3E0008E13C181ACB8D
 	{
 		uint32_t L_0 = ___0_a;
 		uint32_t L_1 = ___0_a;
-		return ((int32_t)((int32_t)((-((int32_t)L_0)))&(int32_t)L_1));
+		return ((int32_t)(((-((int32_t)L_0)))&(int32_t)L_1));
 	}
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint64_t Bmi1_blsi_u64_m8892C07892C25E94416BD0BFD0D9536DAEE92AA8 (uint64_t ___0_a, const RuntimeMethod* method) 
@@ -17351,7 +17351,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint64_t Bmi1_blsi_u64_m8892C07892C25E94416BD
 	{
 		uint64_t L_0 = ___0_a;
 		uint64_t L_1 = ___0_a;
-		return ((int64_t)((int64_t)((-((int64_t)L_0)))&(int64_t)L_1));
+		return ((int64_t)(((-((int64_t)L_0)))&(int64_t)L_1));
 	}
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t Bmi1_blsmsk_u32_m06E853429AC40DF201D9D9D5886B5D948182D139 (uint32_t ___0_a, const RuntimeMethod* method) 
@@ -17393,7 +17393,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t Bmi1_tzcnt_u32_m6AF2CB62C99ACEC65074
 		V_0 = ((int32_t)32);
 		uint32_t L_0 = ___0_a;
 		uint32_t L_1 = ___0_a;
-		___0_a = ((int32_t)((int32_t)L_0&(int32_t)((-((int32_t)L_1)))));
+		___0_a = ((int32_t)((int32_t)L_0&((-((int32_t)L_1)))));
 		uint32_t L_2 = ___0_a;
 		if (!L_2)
 		{
@@ -17483,7 +17483,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint64_t Bmi1_tzcnt_u64_m10F1843B2D43FAB8822C
 		V_0 = ((int64_t)((int32_t)64));
 		uint64_t L_0 = ___0_a;
 		uint64_t L_1 = ___0_a;
-		___0_a = ((int64_t)((int64_t)L_0&(int64_t)((-((int64_t)L_1)))));
+		___0_a = ((int64_t)((int64_t)L_0&((-((int64_t)L_1)))));
 		uint64_t L_2 = ___0_a;
 		if (!L_2)
 		{
@@ -18244,7 +18244,7 @@ IL_007c:
 	{
 		uint32_t L_23 = V_2;
 		int8_t L_24 = V_1;
-		V_2 = ((int32_t)il2cpp_codegen_subtract((int32_t)L_23, ((int32_t)((int32_t)((~L_24))&1))));
+		V_2 = ((int32_t)il2cpp_codegen_subtract((int32_t)L_23, ((int32_t)(((~((int32_t)L_24)))&1))));
 		goto IL_0138;
 	}
 
@@ -20376,22 +20376,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR v128_t9D2F2BF6DCFF1D82BF38064CF157489E1E680B6
 		uint32_t L_1 = L_0.___UInt0;
 		v128_t9D2F2BF6DCFF1D82BF38064CF157489E1E680B61 L_2 = ___1_b;
 		uint32_t L_3 = L_2.___UInt0;
-		(&V_0)->___UInt0 = ((int32_t)((int32_t)((~L_1))&(int32_t)L_3));
+		(&V_0)->___UInt0 = ((int32_t)(((~((int32_t)L_1)))&(int32_t)L_3));
 		v128_t9D2F2BF6DCFF1D82BF38064CF157489E1E680B61 L_4 = ___0_a;
 		uint32_t L_5 = L_4.___UInt1;
 		v128_t9D2F2BF6DCFF1D82BF38064CF157489E1E680B61 L_6 = ___1_b;
 		uint32_t L_7 = L_6.___UInt1;
-		(&V_0)->___UInt1 = ((int32_t)((int32_t)((~L_5))&(int32_t)L_7));
+		(&V_0)->___UInt1 = ((int32_t)(((~((int32_t)L_5)))&(int32_t)L_7));
 		v128_t9D2F2BF6DCFF1D82BF38064CF157489E1E680B61 L_8 = ___0_a;
 		uint32_t L_9 = L_8.___UInt2;
 		v128_t9D2F2BF6DCFF1D82BF38064CF157489E1E680B61 L_10 = ___1_b;
 		uint32_t L_11 = L_10.___UInt2;
-		(&V_0)->___UInt2 = ((int32_t)((int32_t)((~L_9))&(int32_t)L_11));
+		(&V_0)->___UInt2 = ((int32_t)(((~((int32_t)L_9)))&(int32_t)L_11));
 		v128_t9D2F2BF6DCFF1D82BF38064CF157489E1E680B61 L_12 = ___0_a;
 		uint32_t L_13 = L_12.___UInt3;
 		v128_t9D2F2BF6DCFF1D82BF38064CF157489E1E680B61 L_14 = ___1_b;
 		uint32_t L_15 = L_14.___UInt3;
-		(&V_0)->___UInt3 = ((int32_t)((int32_t)((~L_13))&(int32_t)L_15));
+		(&V_0)->___UInt3 = ((int32_t)(((~((int32_t)L_13)))&(int32_t)L_15));
 		v128_t9D2F2BF6DCFF1D82BF38064CF157489E1E680B61 L_16 = V_0;
 		return L_16;
 	}

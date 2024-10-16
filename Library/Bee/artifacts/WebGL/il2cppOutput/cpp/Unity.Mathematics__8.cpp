@@ -21192,7 +21192,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR uint4_t6C69CBFAE9BF0F727D52B68779
 		uint32_t L_7 = L_6.___w;
 		uint4_t6C69CBFAE9BF0F727D52B68779D4A3F0DBA8D5C9 L_8;
 		memset((&L_8), 0, sizeof(L_8));
-		uint4__ctor_m59B6A219A0285C60FCF2977679BF89C72B502008_inline((&L_8), ((~L_1)), ((~L_3)), ((~L_5)), ((~L_7)), NULL);
+		uint4__ctor_m59B6A219A0285C60FCF2977679BF89C72B502008_inline((&L_8), ((~((int32_t)L_1))), ((~((int32_t)L_3))), ((~((int32_t)L_5))), ((~((int32_t)L_7))), NULL);
 		return L_8;
 	}
 }

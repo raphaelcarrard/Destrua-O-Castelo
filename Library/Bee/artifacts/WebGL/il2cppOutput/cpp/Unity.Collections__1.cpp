@@ -29682,7 +29682,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnsafeBitArray_Set_m8D4A5CFAF43641958B4D
 		int32_t L_8;
 		L_8 = Bitwise_FromBool_mADE53636BBE556E1B2F09182E2E83D40C4913A90(L_7, NULL);
 		uint64_t L_9 = V_2;
-		V_3 = ((int64_t)(((int64_t)(L_5&(int64_t)((~L_6))))|((int64_t)(((int64_t)((-L_8)))&(int64_t)L_9))));
+		V_3 = ((int64_t)(((int64_t)(L_5&((~((int64_t)L_6)))))|((int64_t)(((int64_t)((-L_8)))&(int64_t)L_9))));
 		uint64_t* L_10 = __this->___Ptr;
 		int32_t L_11 = V_0;
 		uint64_t L_12 = V_3;
@@ -29741,9 +29741,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnsafeBitArray_SetBits_mA6C9FDEAAF8A53E4
 		uint64_t L_14 = V_6;
 		V_8 = ((int64_t)((int64_t)L_13&(int64_t)L_14));
 		uint64_t L_15 = V_4;
-		V_9 = ((~L_15));
+		V_9 = ((~((int64_t)L_15)));
 		uint64_t L_16 = V_5;
-		V_10 = ((~L_16));
+		V_10 = ((~((int64_t)L_16)));
 		int32_t L_17 = V_0;
 		int32_t L_18 = V_2;
 		if ((!(((uint32_t)L_17) == ((uint32_t)L_18))))
@@ -32163,7 +32163,7 @@ IL_0006:
 		int32_t L_5 = __this->___m_LengthInBytes;
 		uint64_t L_6 = V_0;
 		uint64_t L_7 = V_0;
-		int64_t L_8 = ((int64_t)(((int64_t)il2cpp_codegen_add(((int64_t)il2cpp_codegen_add(L_4, ((int64_t)L_5))), (int64_t)L_6))&(int64_t)((~L_7))));
+		int64_t L_8 = ((int64_t)(((int64_t)il2cpp_codegen_add(((int64_t)il2cpp_codegen_add(L_4, ((int64_t)L_5))), (int64_t)L_6))&((~((int64_t)L_7)))));
 		intptr_t L_9;
 		L_9 = IntPtr_op_Explicit_mDDF1A91C58AC17347D735651A0D830CA1E86D4B0(L_8, NULL);
 		void* L_10;
