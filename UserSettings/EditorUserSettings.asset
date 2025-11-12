@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 51530c5f51535e5d5d5f082142725a44471641287c7a77637f784564b7b36c6c
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 0250525301540d0c5c5a0d7215750944404f492f7a2a726629714564b5b4646b
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 54530c0255035a5d545c5f7616740e44174f417e292c7e32792c4d30e0e1663c
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5355525656515d0a0f5c0d73467b0944104e1b722f7b72687571196bb3b66c61
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5a0756075d0c0b0f0f5c557b16755a44154e4a72787a7469282c1c67b1b0616f
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5b0251505656505e080a5e7545775a44424f492e292c2035752f1c61bab36168
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 070307515556595f0e0c0a7016750b44174f4b797a7c7066782f4e60bab93739
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5555520256010f02550d5877497b0f44134e1b7e287e23607e2c1e37e3e4356f
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 010452055d045e5f5d5e5a7048765c4413154e7f2f2e22642c7d4c64bab7623c
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 5454065e5d53580a0e080e751271074443164128787073657e714a67b5e66c6c
+      flags: 0
+    UnityRemoteDevice:
+      value: 225f4d46245b0d4902070862342649191512
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 1
+  m_StandbyImportWorkerCount: 1
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 0
+  m_VCScanLocalPackagesOnConnect: 1
+  m_ArtifactGarbageCollection: 1
+  m_CompressAssetsOnImport: 1

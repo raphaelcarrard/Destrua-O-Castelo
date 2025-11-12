@@ -1,0 +1,425 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.2/respin/6000.2.8f1-e4064264ae96' branch; Version is '6000.2.8f1 (c9992ac36c34) revision 13211946'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit CoreSingleLanguage' Language: 'pt' Physical Memory: 6005 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2025-11-12T00:56:14Z
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-rapha" at "2025-11-12T00:56:14.1831119Z"
+
+COMMAND LINE ARGUMENTS:
+E:\UnityEditors\6000.2.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/My Games/Destroy the Castle
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52186
+-licensingIpc
+LicenseClient-rapha
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: E:/My Games/Destroy the Castle
+E:/My Games/Destroy the Castle
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [11312]  Target information:
+
+Player connection [11312]  * "[IP] 192.168.189.1 [Port] 0 [Flags] 2 [Guid] 3386375622 [EditorId] 3386375622 [Version] 1048832 [Id] WindowsEditor(7,Rapha) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11312]  * "[IP] 192.168.91.1 [Port] 0 [Flags] 2 [Guid] 3386375622 [EditorId] 3386375622 [Version] 1048832 [Id] WindowsEditor(7,Rapha) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11312]  * "[IP] 192.168.0.8 [Port] 0 [Flags] 2 [Guid] 3386375622 [EditorId] 3386375622 [Version] 1048832 [Id] WindowsEditor(7,Rapha) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11312] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [11312] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 10256, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.3+a4e98f1
+  Session Id:              38616f9b7eae474c81a3a7e3f5ce8835
+  Correlation Id:          be6b8ce2982a7e6f93a3c7e911ac83ca
+  External correlation Id: 2174025331332609411
+  Machine Id:              f5hcpFXRCKtU32XKmb3sJ+PR1mQ=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-rapha" (connect: 0.00s, validation: 0.05s, handshake: 0.20s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-rapha-notifications" at "2025-11-12T00:56:14.4325332Z"
+[Licensing::Module] Licensing Background thread has ended after 0.25s
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-UWWC-HDTS-C65R-DKNB-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 4672995795270-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Refreshing native plugins compatible for Editor in 238.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.2.8f1 (c9992ac36c34)
+[Subsystems] Discovering subsystems at path E:/UnityEditors/6000.2.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/My Games/Destroy the Castle/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x164c)
+    Vendor:   ATI
+    VRAM:     3002 MB
+    Driver:   31.0.21916.2
+Initialize mono
+Mono path[0] = 'E:/UnityEditors/6000.2.8f1/Editor/Data/Managed'
+Mono path[1] = 'E:/UnityEditors/6000.2.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/UnityEditors/6000.2.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56600
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/UnityEditors/6000.2.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/UnityEditors/6000.2.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: E:/UnityEditors/6000.2.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.878625 seconds.
+- Loaded All Assemblies, in 16.122 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 891 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.028 seconds
+Domain Reload Profiling: 18179ms
+	BeginReloadAssembly (11530ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (828ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (1097ms)
+	LoadAllAssembliesAndSetupDomain (2652ms)
+		LoadAssemblies (11523ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (2526ms)
+			TypeCache.Refresh (2498ms)
+				TypeCache.ScanAssembly (2084ms)
+			BuildScriptInfoCaches (12ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (2057ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1963ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1403ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (110ms)
+			ProcessInitializeOnLoadAttributes (318ms)
+			ProcessInitializeOnLoadMethodAttributes (128ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-UWWC-HDTS-C65R-DKNB-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 4672995795270-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+- Loaded All Assemblies, in 13.977 seconds
+Refreshing native plugins compatible for Editor in 3.62 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+GPGSUpgrader start
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GooglePlayGames.Editor.GPGSUpgrader:.cctor () (at Assets/GooglePlayGames/com.google.play.games/Editor/GPGSUpgrader.cs:38)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/GooglePlayGames/com.google.play.games/Editor/GPGSUpgrader.cs Line: 38)
+
+GPGSUpgrader done
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GooglePlayGames.Editor.GPGSUpgrader:.cctor () (at Assets/GooglePlayGames/com.google.play.games/Editor/GPGSUpgrader.cs:57)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/GooglePlayGames/com.google.play.games/Editor/GPGSUpgrader.cs Line: 57)
+
+Refreshing native plugins compatible for Editor in 3.17 ms, found 3 plugins.
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.521 seconds
+Domain Reload Profiling: 15454ms
+	BeginReloadAssembly (292ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (35ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (70ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (13535ms)
+		LoadAssemblies (12623ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1028ms)
+			TypeCache.Refresh (899ms)
+				TypeCache.ScanAssembly (849ms)
+			BuildScriptInfoCaches (119ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1522ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1395ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (116ms)
+			ProcessInitializeOnLoadAttributes (1174ms)
+			ProcessInitializeOnLoadMethodAttributes (86ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+Refreshing native plugins compatible for Editor in 3.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3575 unused Assets / (1.7 MB). Loaded Objects now: 4083.
+Memory consumption went from 87.8 MB to 86.1 MB.
+Total: 8.373900 ms (FindLiveObjects: 0.496700 ms CreateObjectMapping: 0.205200 ms MarkObjects: 5.612100 ms  DeleteObjects: 2.056800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2149.475656 seconds.
+  path: Assets/Cenas/Level7_Mestra1.unity
+  artifactKey: Guid(4f326772a2f79e348bb8baa3a9d3fc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level7_Mestra1.unity using Guid(4f326772a2f79e348bb8baa3a9d3fc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16e92a4d35b096d00d8ce41fcbb4ebd3') in 0.1033932 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Cenas/Level4_Mestra1.unity
+  artifactKey: Guid(85b9a0d2103db274ab3d87272d3d559e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level4_Mestra1.unity using Guid(85b9a0d2103db274ab3d87272d3d559e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '675856fa651d0f50048a0b4f01ba26b0') in 0.0009376 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.281364 seconds.
+  path: Assets/Cenas/Level5_Mestra1.unity
+  artifactKey: Guid(11635bfa07fa3a44d9ee3e0fbafe5f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level5_Mestra1.unity using Guid(11635bfa07fa3a44d9ee3e0fbafe5f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc393d0a485289e8609583ccfa24d810') in 0.0007542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.577009 seconds.
+  path: Assets/Cenas/Level8_Mestra1.unity
+  artifactKey: Guid(0e70c2c2d36144d4a9d7db203d3af92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level8_Mestra1.unity using Guid(0e70c2c2d36144d4a9d7db203d3af92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '038508891a2395647ff69dbd20d003be') in 0.0119983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.966875 seconds.
+  path: Assets/Cenas/Level9_Mestra1.unity
+  artifactKey: Guid(c49714050be4ece4eb2d1266d83fa58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level9_Mestra1.unity using Guid(c49714050be4ece4eb2d1266d83fa58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f0e87c936e93ab812b913953bae8e33') in 0.0010543 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.932678 seconds.
+  path: Assets/Cenas/Level10_Mestra1.unity
+  artifactKey: Guid(60214d562cc4f6a4c9b2bec22bf6610c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level10_Mestra1.unity using Guid(60214d562cc4f6a4c9b2bec22bf6610c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a8ead508c694229ce52e1cd0fd821733') in 0.0067604 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.749718 seconds.
+  path: Assets/Cenas/Level11_Mestra1.unity
+  artifactKey: Guid(876b68638234ead4291309d515ee8682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level11_Mestra1.unity using Guid(876b68638234ead4291309d515ee8682) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0f55767504374d0e4d5023b5b009bfba') in 0.0009597 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.319794 seconds.
+  path: Assets/Cenas/Level12_Mestra1.unity
+  artifactKey: Guid(2ff7cdebfe95e704e899a69ff30d779d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level12_Mestra1.unity using Guid(2ff7cdebfe95e704e899a69ff30d779d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0820d71e7c1272f3b774442c63e6b076') in 0.0011308 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.020398 seconds.
+  path: Assets/Cenas/Level13_Mestra2.unity
+  artifactKey: Guid(143be3ca1362ed442821660d9514dc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level13_Mestra2.unity using Guid(143be3ca1362ed442821660d9514dc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a70598cd760123d13ef74d3bcd8670f9') in 0.0114347 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.406997 seconds.
+  path: Assets/Cenas/Level14_Mestra2.unity
+  artifactKey: Guid(c6eaeadbe9ffb604aa36ef06f1fe44f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level14_Mestra2.unity using Guid(c6eaeadbe9ffb604aa36ef06f1fe44f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ddbd7ad676ee08a6817ca63207ad94b7') in 0.0006209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.811505 seconds.
+  path: Assets/Cenas/Level15_Mestra2.unity
+  artifactKey: Guid(cdc1fecff5f4e9d4b90bdf918352f4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level15_Mestra2.unity using Guid(cdc1fecff5f4e9d4b90bdf918352f4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a108619e23b4cce8d399b1fc8fdbe5e') in 0.0007223 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.491835 seconds.
+  path: Assets/Cenas/Level16_Mestra2.unity
+  artifactKey: Guid(264c485fa65574d4c8dc0bb9df708cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level16_Mestra2.unity using Guid(264c485fa65574d4c8dc0bb9df708cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf51713dd843dd0b89e8d1e266b56b82') in 0.0007977 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.638895 seconds.
+  path: Assets/Cenas/Level17_Mestra2.unity
+  artifactKey: Guid(2b894f7f01dc21e41a9b021321875384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level17_Mestra2.unity using Guid(2b894f7f01dc21e41a9b021321875384) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d93f1fcd78d11c01cfff5bdee9ce05f') in 0.0009958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.058754 seconds.
+  path: Assets/Cenas/Level18_Mestra2.unity
+  artifactKey: Guid(aaf5dad714a0e664681e6b46d8877403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level18_Mestra2.unity using Guid(aaf5dad714a0e664681e6b46d8877403) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72a13ff88fc0ffeccca221a5be15bf46') in 0.0132343 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.733947 seconds.
+  path: Assets/Cenas/Level19_Mestra2.unity
+  artifactKey: Guid(7b8d063f9234f714a894ed8b4e0cba2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level19_Mestra2.unity using Guid(7b8d063f9234f714a894ed8b4e0cba2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a510dd5b9f08af82ccf6d13106a00dd1') in 0.0176917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.759231 seconds.
+  path: Assets/Cenas/Level20_Mestra2.unity
+  artifactKey: Guid(0df03d41b2a16864f9c8c34888d81689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level20_Mestra2.unity using Guid(0df03d41b2a16864f9c8c34888d81689) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0cd351a5783967265a125f1b19a05f04') in 0.0008907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.443057 seconds.
+  path: Assets/Cenas/Level21_Mestra2.unity
+  artifactKey: Guid(96ba89b4b299f6e4c9284229eea43057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level21_Mestra2.unity using Guid(96ba89b4b299f6e4c9284229eea43057) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1abddeaa85a742750995353520eaa265') in 0.0173352 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.572455 seconds.
+  path: Assets/Cenas/Level22_Mestra2.unity
+  artifactKey: Guid(83e63c9eed2754e4481dedfe8fa28350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level22_Mestra2.unity using Guid(83e63c9eed2754e4481dedfe8fa28350) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c3eb5350c61c015c5c9333d98408e9bc') in 0.0135213 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.444536 seconds.
+  path: Assets/Cenas/Level23_Mestra2.unity
+  artifactKey: Guid(d2370c0dcbf2f644a83364665f3389ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level23_Mestra2.unity using Guid(d2370c0dcbf2f644a83364665f3389ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a94310fa51ec1f7971a69356a659345') in 0.0009383 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.597628 seconds.
+  path: Assets/Cenas/Level24_Mestra2.unity
+  artifactKey: Guid(6dfd34f98c459804e9c4d6e03ecdada7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cenas/Level24_Mestra2.unity using Guid(6dfd34f98c459804e9c4d6e03ecdada7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b7f0be753642a08f089485126270cc6c') in 0.0168602 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
